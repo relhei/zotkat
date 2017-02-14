@@ -1,20 +1,20 @@
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature  http://swb.bsz-bw.de/DB=2.1/PPNSET?PPN=014411350&INDEXSET=1,
 	"0591-2385" : "!01515663X!", // Zygon 
-    "0891-5881" : "!023125381!", // Dialogue and alliance
-	"0884-5379" : "!341092975!",  // fides et historia
+    	"0891-5881" : "!023125381!", // Dialogue and alliance
+	"0884-5379" : "!341092975!", // fides et historia
 	"1474-6700" : "!105283193!", // Theology and science  
-	"1462-2459" : "!094835578!", //Reformation & Renaissance review  
-	"0031-0328" : "!014896486!", //Palestine exploration quarterly 
+	"1462-2459" : "!094835578!", // Reformation & Renaissance review  
+	"0031-0328" : "!014896486!", // Palestine exploration quarterly 
 	"0037-7686" : "!01440009X!", // Social compass !!hier kein direkter Downlaod, sondern über button "abstracts", ansonsten keine ISSN-Übernahme!!
 	"1461-7404" : "!01440009X!", // Social compass !!hier kein direkter Downlaod, sondern über button "abstracts", ansonsten keine ISSN-Übernahme!!
-	"1745-5294" : "!01521124X!" ,//Journal for the study of the New Testament  !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
-	"0142-064X" : "!01521124X!" ,//Journal for the study of the New Testament  !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
+	"1745-5294" : "!01521124X!", // Journal for the study of the New Testament  !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
+	"0142-064X" : "!01521124X!", // Journal for the study of the New Testament  !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
 	"1476-6728" : "!016069390!", // Journal for the study of the Old Testament !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
 	"0309-0892" : "!016069390!", // Journal for the study of the Old Testament !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
 	"0771-7776" : "!01496841X!", // Sacris erudiri  
 	"2284-7308" : "!281073546!", // Perichoresis  
-	"1745-5189" : "!033051313!", // Feminist theology !!hier kein direkter Downlaod, sondern über button "abstracts", ansonsten keine ISSN-Übernahme!!
+	"1745-5189" : "!033051313!", // Feminist theology !!hier kein direkter Downlaod, sondern über button "abstracts", ansonsten keine ISSN-Übernahme!! hier müsste eigtl. eppn erscheinen? in Z. 18 ISSN verbunden mit gleicher ppn? Zusammenlegung möglich?
 	"0966-7350" : "!033051313!", // Feminist theology !!hier kein direkter Downlaod, sondern über button "abstracts", ansonsten keine ISSN-Übernahme!!
 	"1745-5286" : "!018245471!", // Journal for the study of the pseudepigrapha   !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
 	"0951-8207" : "!018245471!", // Journal for the study of the pseudepigrapha   !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
@@ -50,10 +50,9 @@ var journalMapping = {
 	"1612-9776" : "!040100804!", // Journal for the History of Modern Theology 
 	"1612-9776" : "!040100804!", // Zeitschrift für Neuere Theologiegeschichte
 	"0943-7592" : "!040100804!", // Zeitschrift für Neuere Theologiegeschichte
-	"0031-0328" : "!014896486!", // Palestine exploration quarterly
-	"1743-1301" : "!014896486!", // Palestine exploration quarterly
-    "1743-1301" : "!112775594!", // Palestine exploration quarterly
-	"0031-0328" : "!112775594!", // Palestine exploration quarterly
+	"1743-1301" : "!014896486!", // Palestine exploration quarterly - dieselbe Zs. wie Z. 8, 54, 55 mit ISSN, ESSN, PPN, EPPN: Zusammenführung möglich?
+    	"1743-1301" : "!112775594!", // Palestine exploration quarterly - s. Z. 53
+	"0031-0328" : "!112775594!", // Palestine exploration quarterly - s. Z. 53
 	"1745-5316" : "!119461234!", // Ecclesiology !!hier kein direkter Downlaod, sondern über Zotero-button
 	"0034-6373" : "!015182932!", // Review & Expositor
 	"0034-4125" : "!014537311!", // Religious studies 
@@ -120,9 +119,7 @@ var journalMapping = {
 	"0036-3227" : "!015183696!", // St. Vladimir's theological quarterly   
 	"0092-4245" : "!015192091!", // Wesleyan theological journal
 	"0006-2014" : "!014828995!", // Biblische Zeitschrift
-	"0021-9231" : "!014411350!", // Journal of Biblical Literature
 	"1469-8145" : "!01489324X!", // New Testament studies
-	"0021-9231" : "!014411350!", // Journal of Biblical Literature
 	"1469-8145" : "!01489324X!", // New Testament studies
 	"0048-1009" : "!014862662!", // Novum Testamentum
 	"0040-571X" : "!01518594X!", // Theology
@@ -358,28 +355,25 @@ var issnVolumeMapping = {
 	"2031-5922" : "A.S.",
 };
 var issnPhysicalFormMapping = {
-	"1550-01951" : "O",
+	"1550-0195" : "O",
 	"2031-5929" : "A",
 	"2032-5215" : "O",
 	"1783-1814" : "A",
 	"0018-2710" : "A",
 	"0021-9231" : "A", // Journal of Biblical Literature  http://swb.bsz-bw.de/DB=2.1/PPNSET?PPN=014411350&INDEXSET=1,
 	"0591-2385" : "A", // Zygon 
-    "0891-5881" : "A", // Dialogue and alliance
-	"0884-5379" : "A",  // fides et historia
+    	"0891-5881" : "A", // Dialogue and alliance
+	"0884-5379" : "A", // fides et historia
 	"1474-6700" : "A", // Theology and science  
-	"1462-2459" : "A", //Reformation & Renaissance review  
-	"0031-0328" : "A", //Palestine exploration quarterly 
+	"1462-2459" : "A", // Reformation & Renaissance review  
+	"0031-0328, 1743-1301" : "A", // Palestine exploration quarterly 
 	"0037-7686" : "A", // Social compass !!hier kein direkter Downlaod, sondern über button "abstracts", ansonsten keine ISSN-Übernahme!!
 	"1461-7404" : "A", // Social compass !!hier kein direkter Downlaod, sondern über button "abstracts", ansonsten keine ISSN-Übernahme!!
-	"1745-5294" : "A", //Journal for the study of the New Testament  !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
-	"0142-064X" : "A", //Journal for the study of the New Testament  !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
-	"1476-6728" : "A", // Journal for the study of the Old Testament !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
-	"0309-0892" : "A", // Journal for the study of the Old Testament !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
+	"1745-5294, 0142-064X" : "A", // Journal for the study of the New Testament  !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
+	"1476-6728, 0309-0892" : "A", // Journal for the study of the Old Testament !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
 	"0771-7776" : "A", // Sacris erudiri  
 	"2284-7308" : "A", // Perichoresis  
-	"1745-5189" : "A", // Feminist theology !!hier kein direkter Downlaod, sondern über button "abstracts", ansonsten keine ISSN-Übernahme!!
-	"0966-7350" : "A", // Feminist theology !!hier kein direkter Downlaod, sondern über button "abstracts", ansonsten keine ISSN-Übernahme!!
+	"1745-5189, 0966-7350" : "A", // Feminist theology !!hier kein direkter Downlaod, sondern über button "abstracts", ansonsten keine ISSN-Übernahme!!
 	"1745-5286" : "A", // Journal for the study of the pseudepigrapha   !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
 	"0951-8207" : "A", // Journal for the study of the pseudepigrapha   !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
 	"1357-4175" : "A", // Reformation  
@@ -416,10 +410,6 @@ var issnPhysicalFormMapping = {
 	"1612-9776" : "A", // Journal for the History of Modern Theology 
 	"1612-9776" : "A", // Zeitschrift für Neuere Theologiegeschichte
 	"0943-7592" : "A", // Zeitschrift für Neuere Theologiegeschichte
-	"0031-0328" : "A", // Palestine exploration quarterly
-	"1743-1301" : "A", // Palestine exploration quarterly
-    "1743-1301" : "A", // Palestine exploration quarterly
-	"0031-0328" : "A", // Palestine exploration quarterly
 	"1745-5316" : "A", // Ecclesiology !!hier kein direkter Downlaod, sondern über Zotero-button
 	"0034-6373" : "A", // Review & Expositor
 	"0034-4125" : "A", // Religious studies 
@@ -486,9 +476,7 @@ var issnPhysicalFormMapping = {
 	"0036-3227" : "A", // St. Vladimir's theological quarterly   
 	"0092-4245" : "A", // Wesleyan theological journal
 	"0006-2014" : "A", // Biblische Zeitschrift
-	"0021-9231" : "A", // Journal of Biblical Literature
 	"1469-8145" : "A", // New Testament studies
-	"0021-9231" : "A", // Journal of Biblical Literature
 	"1469-8145" : "A", // New Testament studies
 	"0048-1009" : "A", // Novum Testamentum
 	"0040-571X" : "A", // Theology
@@ -684,7 +672,7 @@ var issnPhysicalFormMapping = {
 	"1758-6631" : "A", // International review of mission !!eppn
 	"0020-9643" : "A", // Interpretation !!pppn
 	"2159-340X" : "A", // Interpretation !!eppn
-	"0021-9231" : "A", // Journal of biblical literature !!eppn
+	"0021-9231" : "A", // Journal of biblical literature !!eppn - ist bereits vorhanden in Z. 363: hier noch gelassen wg. eppn?
 	"0021-969X" : "A", // Journal of church and state !!pppn
 	"2040-4867" : "A", // Journal of church and state !!eppn
 	"0022-0256" : "A", // Journal of cuneiform studies !!pppn
@@ -708,24 +696,24 @@ var issnPhysicalFormMapping = {
 	"1552-146X" : "A", // The Hastings Center report !!eppn
 	"0098-9444" : "A", // Biblical archaeology review !!pppn
 	"0098-9444" : "A", // Biblical archaeology review !!eppn
-	"0142-064X" : "A", // Journal for the study of the New Testament !!pppn
-	"1745-5294" : "A", // Journal for the study of the New Testament !!eppn
+	"0142-064X" : "A", // Journal for the study of the New Testament !!pppn  - in Z. 373 bereits vorhanden, hier: ppn?
+	"1745-5294" : "A", // Journal for the study of the New Testament !!eppn  - in Z. 372 bereits vorhanden, hier: eppn?
 	"2161-007X" : "A", // Counseling and values !!eppn
 	"0163-4275" : "A", // Environmental ethics !!pppn
 	"0163-4275" : "A", // Environmental ethics !!eppn
 	"1572-543X" : "A", // Exchange !!eppn
 	"2396-9393" : "A", // International bulletin of mission research !!pppn
 	"2396-9407" : "A", // International bulletin of mission research !!eppn
-	"0309-0892" : "A", // Journal for the study of the Old Testament !!pppn
-	"1476-6728" : "A", // Journal for the study of the Old Testament !!eppn
+	"0309-0892" : "A", // Journal for the study of the Old Testament !!pppn  - in Z. 375 bereits vorhanden, hier: ppn?
+	"1476-6728" : "A", // Journal for the study of the Old Testament !!eppn  - in Z. 374 bereits vorhanden, hier: eppn?
 	"0449-508X" : "A", // Journal of pastoral counseling !!pppn
 	"0449-508X" : "A", // Journal of pastoral counseling !!eppn
 	"0894-4857" : "A", // The Merton annual !!pppn
 	"0894-4857" : "A", // The Merton annual !!eppn
 	"0951-8207" : "A", // Journal for the study of the pseudepigrapha !!pppn
 	"1745-5286" : "A", // Journal for the study of the pseudepigrapha !!eppn
-	"0966-7350" : "A", // Feminist theology !!pppn
-	"1745-5189" : "A", // Feminist theology !!eppn
+	"0966-7350" : "A", // Feminist theology !!pppn - in Z. 376 bereits vorhanden, hier ppn? 
+	"1745-5189" : "A", // Feminist theology !!eppn - in Z. 376 bereits vorhanden, hier eppn?
 	"1745-5251" : "A", // Journal of pentecostal theology !!pppn
 	"1574-3012" : "A", // Religion & theology !!eppn
 	"1052-150X" : "A", // Business ethics quarterly !!pppn
@@ -737,7 +725,7 @@ var issnPhysicalFormMapping = {
 	"1363-013X" : "A", // Quaker studies !!eppn
 	"1363-7320" : "A", // Ecotheology !!pppn
 	"1749-4907" : "A", // Journal for the study of religion, nature and culture !!pppn
-	"1462-2459" : "A", // Reformation & Renaissance review !!pppn
+	"1462-2459" : "A", // Reformation & Renaissance review !!pppn - bereits in Z. 369 vorhanden, hier belassen wg. ppn?
 	"1462-3153" : "A", // Journal for the Aramaic bible !!pppn
 	"1462-3153" : "A", // Journal for the Aramaic bible !!eppn
 	"0043-2040" : "A", // Wege zum Menschen
@@ -761,21 +749,20 @@ var issnLicenceFieldMapping = {
 	"0018-2710" : " ",
 	"0021-9231" : " ", // Journal of Biblical Literature  http://swb.bsz-bw.de/DB=2.1/PPNSET?PPN=014411350&INDEXSET=1,
 	"0591-2385" : " ", // Zygon 
-    "0891-5881" : " ", // Dialogue and alliance
-	"0884-5379" : " ",  // fides et historia
+    	"0891-5881" : " ", // Dialogue and alliance
+	"0884-5379" : " ", // fides et historia
 	"1474-6700" : " ", // Theology and science  
-	"1462-2459" : " ", //Reformation & Renaissance review  
-	"0031-0328" : " ", //Palestine exploration quarterly 
+	"1462-2459" : " ", // Reformation & Renaissance review  
+	"0031-0328, 1743-1301" : " ", // Palestine exploration quarterly 
 	"0037-7686" : " ", // Social compass !!hier kein direkter Downlaod, sondern über button "abstracts", ansonsten keine ISSN-Übernahme!!
 	"1461-7404" : " ", // Social compass !!hier kein direkter Downlaod, sondern über button "abstracts", ansonsten keine ISSN-Übernahme!!
-	"1745-5294" : " ", //Journal for the study of the New Testament  !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
-	"0142-064X" : " ", //Journal for the study of the New Testament  !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
+	"1745-5294" : " ", // Journal for the study of the New Testament  !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
+	"0142-064X" : " ", // Journal for the study of the New Testament  !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
 	"1476-6728" : " ", // Journal for the study of the Old Testament !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
 	"0309-0892" : " ", // Journal for the study of the Old Testament !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
 	"0771-7776" : " ", // Sacris erudiri  
 	"2284-7308" : " ", // Perichoresis  
-	"1745-5189" : " ", // Feminist theology !!hier kein direkter Downlaod, sondern über button "abstracts", ansonsten keine ISSN-Übernahme!!
-	"0966-7350" : " ", // Feminist theology !!hier kein direkter Downlaod, sondern über button "abstracts", ansonsten keine ISSN-Übernahme!!
+	"1745-5189, 0966-7350" : " ", // Feminist theology !!hier kein direkter Downlaod, sondern über button "abstracts", ansonsten keine ISSN-Übernahme!!
 	"1745-5286" : " ", // Journal for the study of the pseudepigrapha   !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
 	"0951-8207" : " ", // Journal for the study of the pseudepigrapha   !!hier kein direkter Downlaod, sondern über button "abstracts", //ansonsten keine ISSN-Übernahme!!
 	"1357-4175" : " ", // Reformation  
@@ -811,10 +798,6 @@ var issnLicenceFieldMapping = {
 	"1612-9776" : " ", // Journal for the History of Modern Theology 
 	"1612-9776" : " ", // Zeitschrift für Neuere Theologiegeschichte
 	"0943-7592" : " ", // Zeitschrift für Neuere Theologiegeschichte
-	"0031-0328" : " ", // Palestine exploration quarterly
-	"1743-1301" : " ", // Palestine exploration quarterly
-    "1743-1301" : " ", // Palestine exploration quarterly
-	"0031-0328" : " ", // Palestine exploration quarterly
 	"1745-5316" : " ", // Ecclesiology !!hier kein direkter Downlaod, sondern über Zotero-button
 	"0034-6373" : " ", // Review & Expositor
 	"0034-4125" : " ", // Religious studies 
@@ -881,9 +864,7 @@ var issnLicenceFieldMapping = {
 	"0036-3227" : " ", // St. Vladimir's theological quarterly   
 	"0092-4245" : " ", // Wesleyan theological journal
 	"0006-2014" : " ", // Biblische Zeitschrift
-	"0021-9231" : " ", // Journal of Biblical Literature
 	"1469-8145" : " ", // New Testament studies
-	"0021-9231" : " ", // Journal of Biblical Literature
 	"1469-8145" : " ", // New Testament studies
 	"0048-1009" : " ", // Novum Testamentum
 	"0040-571X" : " ", // Theology
@@ -1078,7 +1059,7 @@ var issnLicenceFieldMapping = {
 	"1758-6631" : " ", // International review of mission !!eppn
 	"0020-9643" : " ", // Interpretation !!pppn
 	"2159-340X" : " ", // Interpretation !!eppn
-	"0021-9231" : " ", // Journal of biblical literature !!eppn
+	"0021-9231" : " ", // Journal of biblical literature !!eppn - ist bereits vorhanden in Z. 753: hier noch gelassen wg. eppn? 
 	"0021-969X" : " ", // Journal of church and state !!pppn
 	"2040-4867" : " ", // Journal of church and state !!eppn
 	"0022-0256" : " ", // Journal of cuneiform studies !!pppn
@@ -1102,24 +1083,24 @@ var issnLicenceFieldMapping = {
 	"1552-146X" : " ", // The Hastings Center report !!eppn
 	"0098-9444" : " ", // Biblical archaeology review !!pppn
 	"0098-9444" : " ", // Biblical archaeology review !!eppn
-	"0142-064X" : " ", // Journal for the study of the New Testament !!pppn
-	"1745-5294" : " ", // Journal for the study of the New Testament !!eppn
+	"0142-064X" : " ", // Journal for the study of the New Testament !!pppn - in Z. 763 bereits vorhanden, hier: ppn?
+	"1745-5294" : " ", // Journal for the study of the New Testament !!eppn - in Z. 762 bereits vorhanden, hier: eppn?
 	"2161-007X" : " ", // Counseling and values !!eppn
 	"0163-4275" : " ", // Environmental ethics !!pppn
 	"0163-4275" : " ", // Environmental ethics !!eppn
 	"1572-543X" : " ", // Exchange !!eppn
 	"2396-9393" : " ", // International bulletin of mission research !!pppn
 	"2396-9407" : " ", // International bulletin of mission research !!eppn
-	"0309-0892" : " ", // Journal for the study of the Old Testament !!pppn
-	"1476-6728" : " ", // Journal for the study of the Old Testament !!eppn
+	"0309-0892" : " ", // Journal for the study of the Old Testament !!pppn - in Z. 765 bereits vorhanden, hier: ppn?
+	"1476-6728" : " ", // Journal for the study of the Old Testament !!eppn - in Z. 764 bereits vorhanden, hier: eppn?
 	"0449-508X" : " ", // Journal of pastoral counseling !!pppn
 	"0449-508X" : " ", // Journal of pastoral counseling !!eppn
 	"0894-4857" : " ", // The Merton annual !!pppn
 	"0894-4857" : " ", // The Merton annual !!eppn
 	"0951-8207" : " ", // Journal for the study of the pseudepigrapha !!pppn
 	"1745-5286" : " ", // Journal for the study of the pseudepigrapha !!eppn
-	"0966-7350" : " ", // Feminist theology !!pppn
-	"1745-5189" : " ", // Feminist theology !!eppn
+	"0966-7350" : " ", // Feminist theology !!pppn - in Z. 765 bereits vorhanden, hier ppn?
+	"1745-5189" : " ", // Feminist theology !!eppn - in Z. 765 bereits vorhanden, hier eppn?
 	"1745-5251" : " ", // Journal of pentecostal theology !!pppn
 	"1574-3012" : " ", // Religion & theology !!eppn
 	"1052-150X" : " ", // Business ethics quarterly !!pppn
@@ -1131,7 +1112,7 @@ var issnLicenceFieldMapping = {
 	"1363-013X" : " ", // Quaker studies !!eppn
 	"1363-7320" : " ", // Ecotheology !!pppn
 	"1749-4907" : " ", // Journal for the study of religion, nature and culture !!pppn
-	"1462-2459" : " ", // Reformation & Renaissance review !!pppn
+	"1462-2459" : " ", // Reformation & Renaissance review !!pppn - bereits in Z. 758 vorhanden, hier belassen wg. ppn?
 	"1462-3153" : " ", // Journal for the Aramaic bible !!pppn
 	"1462-3153" : " ", // Journal for the Aramaic bible !!eppn
 	"0043-2040" : " ", // Wege zum Menschen
