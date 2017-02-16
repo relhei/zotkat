@@ -794,4 +794,17 @@ var issnSsgMapping = {
 	"0935-7335" : "0; 1", // Ethik in der Medizin 
 	"1437-1618" : "0; 1", // Ethik in der Medizin
 	"1209-9392" : "0; 1", // Women in Judaism
+	"0305-7240" : "0; 1", // Journal of moral education !!pppn
+	"1465-3877" : "0; 1", // Journal of moral education !!eppn
+	"0269-9702" : "0; 1", // Bioethics !!pppn
+	"1467-8519" : "0; 1", // Bioethics !!eppn
+	"1468-2303" : "0; 1", // History and theory !!eppn
+	"0018-2656" : "0; 1", // History and thoery !!pppn
+	"1092-1311" : "0", // The journal of religion and film
+	"1086-3222" : "0; 1", // Journal of the history of ideas !!eppn
+	"0022-5037" : "0; 1", // Journal of the history of ideas !!pppn
+	"1469-5103" : "0; 1", // The historical journal !!eppn
+	"0018-246X" : "0; 1", // The historical journal !!pppn
+	"1469-2147" : "0; 1", // Cambridge quarterly of healthcare ethics !!eppn
+	"0963-1801" : "0; 1", // Cambridge quarterly of healthcare ethics !!pppn
 };
