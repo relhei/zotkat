@@ -345,6 +345,7 @@ var journalMapping = {
 	"0212-1964" : "!016231767!", // Teología y catequesis 
 	"14722089" : "!098783998!", //  International congregational journal 
 	"1472-2089" : "!098783998!", //  International congregational journal
+	"3333-3333" : "!test!!", // test
 	
 	
 	
