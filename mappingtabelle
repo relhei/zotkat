@@ -751,7 +751,7 @@ var issnPhysicalFormMapping = {
 	"0962-8770" : "A", // Business ethics !!pppn
 	"1468-2303" : "A", // History and theory !!eppn
 	"0018-2656" : "A", // History and thoery !!pppn
-	"1092-1311" : "A", // The journal of religion and film
+	"1092-1311" : "O", // The journal of religion and film
 	"1086-3222" : "A", // Journal of the history of ideas !!eppn
 	"0022-5037" : "A", // Journal of the history of ideas !!pppn
 	"1086-3184" : "A", // Journal of early Christian studies !!eppn
@@ -1092,6 +1092,7 @@ var issnLicenceFieldMapping = {
 	"2179-0019" : "l", // Plura, revista de estudos de religião
 	"21790019" : "l", // Plura, revista de estudos de religião
 	"2175-5841" : "l", // Horizonte
+	"1092-1311" : "l", // The journal of religion and film
 	
 	
 };
