@@ -1,6 +1,5 @@
 
 
-
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -413,7 +412,7 @@ var journalMapping = {
 	"2179-0019" : "!454035934!", // Plura, revista de estudos de religião
 	"21790019" : "!454035934!", // Plura, revista de estudos de religião
 	"2175-5841" : "!337893861!", // Horizonte
-	
+	"2371-2295" : "!493457933!", // Œcuménisme / Ecumenism
 	
 };
 
@@ -1055,6 +1054,7 @@ var issnPhysicalFormMapping = {
 	"2179-0019" : "O", // Plura, revista de estudos de religião
 	"21790019" : "O", // Plura, revista de estudos de religião
 	"2175-5841" : "O", // Horizonte
+	"2371-2295" : "O", // Œcuménisme / Ecumenism
 	
 	
 };
@@ -1250,3 +1250,16 @@ var issnSsgMapping = {
 	
 };
 
+
+
+// Mapping für ISSNs deren Schlagwörter statt 5520 in 680X abgelegt werden. KrimDok-Spezifikation
+// inkrementell ab z.B. 680 exportiert werden sollen (6801, 6802, ...)
+var issnKeywordMapping = {
+	"0003-1224" : 6800, // American sociological review Online Publikation|krimdok
+	"1862-2593" : 6800, // Berliner Journal für Soziologie Online Publikation|krimdok
+	"0268-5809" : 6800, // International sociology Online Publikation|krimdok
+	"2196-8225" : 6800, // Praxis der Kinderpsychologie und Kinderpsychiatrie Online Publikation|krimdok
+	"2190-6238" : 6800, // Psychologische Rundschau Online Publikation|krimdok
+	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
+	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
+};
