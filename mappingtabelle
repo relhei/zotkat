@@ -1,5 +1,6 @@
 
 
+
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -413,6 +414,7 @@ var journalMapping = {
 	"21790019" : "!454035934!", // Plura, revista de estudos de religião
 	"2175-5841" : "!337893861!", // Horizonte
 	"2371-2295" : "!493457933!", // Œcuménisme / Ecumenism
+	"0383-431X" : "!493457933!", // Œcuménisme / Ecumenism
 	"2159-6875" : "!454038860!", // Jonathan Edwards studies
 	
 };
@@ -1056,6 +1058,7 @@ var issnPhysicalFormMapping = {
 	"21790019" : "O", // Plura, revista de estudos de religião
 	"2175-5841" : "O", // Horizonte
 	"2371-2295" : "O", // Œcuménisme / Ecumenism
+	"0383-431X" : "O", // Œcuménisme / Ecumenism
 	"2159-6875" : "O", // Jonathan Edwards studies
 	
 	
