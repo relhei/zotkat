@@ -1,6 +1,5 @@
 
 
-
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -416,7 +415,8 @@ var journalMapping = {
 	"2371-2295" : "!493457933!", // Œcuménisme / Ecumenism
 	"0383-431X" : "!493457933!", // Œcuménisme / Ecumenism
 	"2159-6875" : "!454038860!", // Jonathan Edwards studies
-	
+	"2001-8819" : "!414831071!", // De Ethica
+	"20018819" : "!414831071!", // De Ethica
 };
 
 
@@ -1060,6 +1060,8 @@ var issnPhysicalFormMapping = {
 	"2371-2295" : "O", // Œcuménisme / Ecumenism
 	"0383-431X" : "O", // Œcuménisme / Ecumenism
 	"2159-6875" : "O", // Jonathan Edwards studies
+	"2001-8819" : "O", // De Ethica
+	"20018819" : "O", // De Ethica
 	
 	
 };
@@ -1100,6 +1102,8 @@ var issnLicenceFieldMapping = {
 	"2175-5841" : "l", // Horizonte
 	"1092-1311" : "l", // The journal of religion and film
 	"2159-6875" : "l", // Jonathan Edwards studies
+	"2001-8819" : "l", // De Ethica
+	"20018819" : "l", // De Ethica
 	
 	
 };
