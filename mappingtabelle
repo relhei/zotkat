@@ -417,6 +417,9 @@ var journalMapping = {
 	"2159-6875" : "!454038860!", // Jonathan Edwards studies
 	"2001-8819" : "!414831071!", // De Ethica
 	"20018819" : "!414831071!", // De Ethica
+	"2408-9370" : "!452474043!", // Journal for religion, film and media
+	"2414-0201" : "!452474043!", // Journal for religion, film and media
+	
 };
 
 
@@ -1062,6 +1065,8 @@ var issnPhysicalFormMapping = {
 	"2159-6875" : "O", // Jonathan Edwards studies
 	"2001-8819" : "O", // De Ethica
 	"20018819" : "O", // De Ethica
+	"2408-9370" : "O", // Journal for religion, film and media
+	"2414-0201" : "O", // Journal for religion, film and media
 	
 	
 };
@@ -1104,6 +1109,8 @@ var issnLicenceFieldMapping = {
 	"2159-6875" : "l", // Jonathan Edwards studies
 	"2001-8819" : "l", // De Ethica
 	"20018819" : "l", // De Ethica
+	"2408-9370" : "l", // Journal for religion, film and media
+	"2414-0201" : "l", // Journal for religion, film and media
 	
 	
 };
@@ -1247,16 +1254,17 @@ var issnSsgMapping = {
 	"1135-4712" : "0", // 'Ílu
 	"1139-1529" : "0", // 'Ílu
 	"0048-721X" : "0", // Religion a journal of religion and religions
-	"18630502" : "0; 1", //Theo-Web Zeitschrift für Religionspädagogik
-	"1863-0502" : "0; 1", //Theo-Web Zeitschrift für Religionspädagogik
+	"18630502" : "1", //Theo-Web Zeitschrift für Religionspädagogik
+	"1863-0502" : "1", //Theo-Web Zeitschrift für Religionspädagogik
 	"2365-3140" : "0", // Interdisciplinary journal for religion and transformation in contemporary society
-	"1862-1678" : "0", // theologie.geschichte
 	"1983-2850" : "0", // Revista Brasileira de História das Religiões 
 	"19832850" : "0", // Revista Brasileira de História das Religiões 
-	"2179-0019" : "0", // Plura, revista de estudos de religião
-	"21790019" : "0", // Plura, revista de estudos de religião
+	"2179-0019" : "0; 1", // Plura, revista de estudos de religião
+	"21790019" : "0; 1", // Plura, revista de estudos de religião
 	"2175-5841" : "0", // Horizonte
 	"2159-6875" : "0", // Jonathan Edwards studies
+	"2408-9370" : "0; 1", // Journal for religion, film and media
+	"2414-0201" : "0; 1", // Journal for religion, film and media
 	
 };
 
