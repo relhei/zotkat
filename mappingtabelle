@@ -1,4 +1,5 @@
 
+
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -285,8 +286,8 @@ var journalMapping = {
 	"0361-0160" : "!103189548!", // The Sixteenth Century Journal !!eppn
 	"03610160" : "!014787814!", // The Sixteenth Century Journal !!pppn
 	"03610160" : "!103189548!", // The Sixteenth Century Journal !!eppn
-	"0014-2239" : "!424017644!", // Etudes théologiques et religieuses !!pppn
-	"2272-9011" : "!424017644!", // Etudes théologiques et religieuses !!eppn
+	"0014-2239" : "!01496967X!", // Etudes théologiques et religieuses !!pppn
+	"2272-9011" : "!01496967X!", // Etudes théologiques et religieuses !!eppn
 	"0038-8610" : "!015205207!", // Concordia Theological Quarterly
 	"0047-2867" : "!015194620!", // Journal of Theology for Southern Africa
 	"0342-0914" : "!014414104!", // Lutherjahrbuch
@@ -411,9 +412,11 @@ var journalMapping = {
 	"2179-0019" : "!454035934!", // Plura, revista de estudos de religião
 	"21790019" : "!454035934!", // Plura, revista de estudos de religião
 	"2175-5841" : "!337893861!", // Horizonte
-	"2408-9370" : "!452474043!", // Journal for religion, film and media : JRFM
-	
-	
+	"2371-2295" : "!493457933!", // Œcuménisme / Ecumenism
+	"0383-431X" : "!493457933!", // Œcuménisme / Ecumenism
+	"2159-6875" : "!454038860!", // Jonathan Edwards studies
+	"2001-8819" : "!414831071!", // De Ethica
+	"20018819" : "!414831071!", // De Ethica
 };
 
 
@@ -552,7 +555,6 @@ var issnLangMapping = {
 	"1983-2850" : "por", // Revista Brasileira de História das Religiões 
 	"2179-0019" : "por", // Plura, revista de estudos de religião
 	"21790019" : "por", // Plura, revista de estudos de religião
-	"2408-9370" : "eng", // Journal for religion, film and media : JRFM
 	
 	
 };
@@ -752,7 +754,7 @@ var issnPhysicalFormMapping = {
 	"0962-8770" : "A", // Business ethics !!pppn
 	"1468-2303" : "A", // History and theory !!eppn
 	"0018-2656" : "A", // History and thoery !!pppn
-	"1092-1311" : "A", // The journal of religion and film
+	"1092-1311" : "O", // The journal of religion and film
 	"1086-3222" : "A", // Journal of the history of ideas !!eppn
 	"0022-5037" : "A", // Journal of the history of ideas !!pppn
 	"1086-3184" : "A", // Journal of early Christian studies !!eppn
@@ -951,9 +953,9 @@ var issnPhysicalFormMapping = {
 	"0361-0160" : "A", // The Sixteenth Century Journal
 	"03610160" : "A", // The Sixteenth Century Journal
 	"0038-8610" : "A", // Concordia Theological Quarterly
-	"0014-2239" : "O", // Etudes théologiques et religieuses !!pppn
-	"2272-9011" : "O", // Etudes théologiques et religieuses !!eppn
-	"0014-2239, 2272-9011" : "O", // Etudes théologiques et religieuses !!pppn + eppn
+	"0014-2239" : "A", // Etudes théologiques et religieuses !!pppn
+	"2272-9011" : "A", // Etudes théologiques et religieuses !!eppn
+	"0014-2239, 2272-9011" : "A", // Etudes théologiques et religieuses !!pppn + eppn
 	"0047-2867" : "A", // ! 015194620!Journal of Theology for Southern Africa
 	"0342-0914" : "A", // Lutherjahrbuch
 	"0194-3448" : "A", // American journal of theology and philosophy
@@ -1055,7 +1057,11 @@ var issnPhysicalFormMapping = {
 	"2179-0019" : "O", // Plura, revista de estudos de religião
 	"21790019" : "O", // Plura, revista de estudos de religião
 	"2175-5841" : "O", // Horizonte
-	"2408-9370" : "O", // Journal for religion, film and media : JRFM
+	"2371-2295" : "O", // Œcuménisme / Ecumenism
+	"0383-431X" : "O", // Œcuménisme / Ecumenism
+	"2159-6875" : "O", // Jonathan Edwards studies
+	"2001-8819" : "O", // De Ethica
+	"20018819" : "O", // De Ethica
 	
 	
 };
@@ -1094,7 +1100,10 @@ var issnLicenceFieldMapping = {
 	"2179-0019" : "l", // Plura, revista de estudos de religião
 	"21790019" : "l", // Plura, revista de estudos de religião
 	"2175-5841" : "l", // Horizonte
-	"2408-9370" : "l", // Journal for religion, film and media : JRFM
+	"1092-1311" : "l", // The journal of religion and film
+	"2159-6875" : "l", // Jonathan Edwards studies
+	"2001-8819" : "l", // De Ethica
+	"20018819" : "l", // De Ethica
 	
 	
 };
@@ -1238,13 +1247,16 @@ var issnSsgMapping = {
 	"1135-4712" : "0", // 'Ílu
 	"1139-1529" : "0", // 'Ílu
 	"0048-721X" : "0", // Religion a journal of religion and religions
+	"18630502" : "0; 1", //Theo-Web Zeitschrift für Religionspädagogik
+	"1863-0502" : "0; 1", //Theo-Web Zeitschrift für Religionspädagogik
 	"2365-3140" : "0", // Interdisciplinary journal for religion and transformation in contemporary society
+	"1862-1678" : "0", // theologie.geschichte
 	"1983-2850" : "0", // Revista Brasileira de História das Religiões 
 	"19832850" : "0", // Revista Brasileira de História das Religiões 
-	"2179-0019" : "0; 1", // Plura, revista de estudos de religião
-	"21790019" : "0; 1", // Plura, revista de estudos de religião
+	"2179-0019" : "0", // Plura, revista de estudos de religião
+	"21790019" : "0", // Plura, revista de estudos de religião
 	"2175-5841" : "0", // Horizonte
-	"2408-9370" : "0; 1", // Journal for religion, film and media : JRFM
-	
+	"2159-6875" : "0", // Jonathan Edwards studies
 	
 };
+
