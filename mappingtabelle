@@ -419,6 +419,7 @@ var journalMapping = {
 	"20018819" : "!414831071!", // De Ethica
 	"2408-9370" : "!452474043!", // Journal for religion, film and media
 	"2414-0201" : "!452474043!", // Journal for religion, film and media
+	"2159-8711" : "!477607594!", // Journal for the sociological integration of religion and society
 	
 };
 
@@ -1067,6 +1068,7 @@ var issnPhysicalFormMapping = {
 	"20018819" : "O", // De Ethica
 	"2408-9370" : "O", // Journal for religion, film and media
 	"2414-0201" : "O", // Journal for religion, film and media
+	"2159-8711" : "O", // Journal for the sociological integration of religion and society
 	
 	
 };
@@ -1111,6 +1113,7 @@ var issnLicenceFieldMapping = {
 	"20018819" : "l", // De Ethica
 	"2408-9370" : "l", // Journal for religion, film and media
 	"2414-0201" : "l", // Journal for religion, film and media
+	"2159-8711" : "l", // Journal for the sociological integration of religion and society
 	
 	
 };
@@ -1265,6 +1268,7 @@ var issnSsgMapping = {
 	"2159-6875" : "0", // Jonathan Edwards studies
 	"2408-9370" : "0; 1", // Journal for religion, film and media
 	"2414-0201" : "0; 1", // Journal for religion, film and media
+	"2159-8711" : "0; 1", // Journal for the sociological integration of religion and society
 	
 };
 
