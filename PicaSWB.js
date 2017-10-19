@@ -390,11 +390,11 @@ function doExport() {
                         var codeBase = issnKeywordMapping[ISSNclean];
                         for (i=0; i<item.tags.length; i++) {
                                 var code = codeBase + i;
-                                writeLine(code, "|s|" + item.tags[i].tag.replace(/\s?--\s?/g, '; ').replace(/\s?\.\s?/g, '; '));
+                                writeLine(code, "|s|" + item.tags[i].tag.replace(/\s?--\s?/g, '; '));
                         }
                 } else {
                         for (i=0; i<item.tags.length; i++) {
-                                writeLine("5520", "|s|" + item.tags[i].tag.replace(/\s?--\s?/g, '; ').replace(/\s?\.\s?/g, '; '));
+                                writeLine("5520", "|s|" + item.tags[i].tag.replace(/\s?--\s?/g, '; '));
                         }
                 }	
 		}
