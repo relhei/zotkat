@@ -349,7 +349,7 @@ function doExport() {
 		
 		//Inhaltliche Zusammenfassung -->4207
 		if (item.abstractNote) {
-			writeLine("4207", item.abstractNote.replace("<i>", "\'").replace("</i>", "\'").replace("<br/>", "").replace("Zusammenfassung", "").replace(" Summary", "").replace("", "").replace(/–/g, '-').replace(/&#160;/g, "")); 
+			writeLine("4207", item.abstractNote.replace("<i>", "\'").replace("</i>", "\'").replace("<br/>", "").replace("Zusammenfassung", "").replace(" Summary", "").replace("", "").replace(/–/g, '-').replace(/&#160;/g, " ").replace(/&nbsp;/g, " ")); 
 		}  
 		
 		/* } else (!item.abstractNote){
@@ -390,11 +390,11 @@ function doExport() {
                         var codeBase = issnKeywordMapping[ISSNclean];
                         for (i=0; i<item.tags.length; i++) {
                                 var code = codeBase + i;
-                                writeLine(code, "|s|" + item.tags[i].tag.replace(/\s?--\s?/g, '; '));
+                                writeLine(code, "|s|" + item.tags[i].tag.replace(/\s?--\s?/g, '; ').replace(/\s?\.\s?/g, '; '));
                         }
                 } else {
                         for (i=0; i<item.tags.length; i++) {
-                                writeLine("5520", "|s|" + item.tags[i].tag.replace(/\s?--\s?/g, '; '));
+                                writeLine("5520", "|s|" + item.tags[i].tag.replace(/\s?--\s?/g, '; ').replace(/\s?\.\s?/g, '; '));
                         }
                 }	
 		}
@@ -405,6 +405,7 @@ function doExport() {
 		Zotero.write(outputText);
 	}
 }
+
 
 
 
