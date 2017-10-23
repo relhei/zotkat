@@ -422,6 +422,7 @@ var journalMapping = {
 	"2414-0201" : "!452474043!", // Journal for religion, film and media
 	"2159-8711" : "!477607594!", // Journal for the sociological integration of religion and society
 	"1783-1520" : "!102190003!", // Journal of Eastern Christian studies
+	"0035-1423" : "!014915405!", // Histoire des Religions
 
 };
 
@@ -561,6 +562,7 @@ var issnLangMapping = {
 	"1983-2850" : "por", // Revista Brasileira de História das Religiões 
 	"2179-0019" : "por", // Plura, revista de estudos de religião
 	"21790019" : "por", // Plura, revista de estudos de religião
+	"0035-1423" : "fre", // Histoire des Religions
 	
 	
 };
@@ -1072,6 +1074,7 @@ var issnPhysicalFormMapping = {
 	"2414-0201" : "O", // Journal for religion, film and media
 	"2159-8711" : "O", // Journal for the sociological integration of religion and society
 	"1783-1520" : "A", // Journal of Eastern Christian studies
+	"0035-1423" : "A", // Histoire des Religions
 	
 	
 	
@@ -1118,6 +1121,7 @@ var issnLicenceFieldMapping = {
 	"2408-9370" : "l", // Journal for religion, film and media
 	"2414-0201" : "l", // Journal for religion, film and media
 	"2159-8711" : "l", // Journal for the sociological integration of religion and society
+	
 	
 	
 };
@@ -1273,6 +1277,7 @@ var issnSsgMapping = {
 	"2408-9370" : "0; 1", // Journal for religion, film and media
 	"2414-0201" : "0; 1", // Journal for religion, film and media
 	"2159-8711" : "0; 1", // Journal for the sociological integration of religion and society
+	"0035-1423" : "0", // Histoire des Religions
 	
 	
 };
@@ -1290,3 +1295,4 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
