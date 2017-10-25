@@ -284,7 +284,6 @@ var journalMapping = {
 	"1463-1652" : "!094641951!", // International journal of systematic theology
 	"14631652" : "!094641951!", // International journal of systematic theology
 	"0361-0160" : "!014787814!", // The Sixteenth Century Journal !!pppn
-	"0361-0160" : "!103189548!", // The Sixteenth Century Journal !!eppn
 	"03610160" : "!014787814!", // The Sixteenth Century Journal !!pppn
 	"03610160" : "!103189548!", // The Sixteenth Century Journal !!eppn
 	"0014-2239" : "!01496967X!", // Etudes théologiques et religieuses !!pppn
@@ -1295,4 +1294,3 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
