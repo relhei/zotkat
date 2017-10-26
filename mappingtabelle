@@ -429,6 +429,8 @@ var journalMapping = {
 	"1869-3296" : "!429189435!", // Journal of ancient Judaism
 	"0018-4276" : "!276562968!", // Homiletische Monatshefte
 	"1179-7231" : "!348749139!", // Relegere
+	"1553-9962" : "!1281295107!", // Religion and Society in Central and Eastern Europe
+	
 
 };
 
@@ -1094,6 +1096,7 @@ var issnPhysicalFormMapping = {
 	"1869-3296" : "O", // Journal of ancient Judaism
 	"0018-4276" : "O", // Homiletische Monatshefte
 	"1179-7231" : "O", // Relegere
+	"1553-9962" : "O", // Religion and Society in Central and Eastern Europe
 
 	
 	
@@ -1143,6 +1146,7 @@ var issnLicenceFieldMapping = {
 	"0043-2547" : "l", // Die Welt des Orients
 	"00432547" : "l", // Die Welt des Orients
 	"1179-7231" : "l", // Relegere
+	"1553-9962" : "l", // Religion and Society in Central and Eastern Europe
 
 
 	
@@ -1304,7 +1308,9 @@ var issnSsgMapping = {
 	"2191-0456" : "0", // Hikma
 	"1869-3296" : "0; 1", // Journal of ancient Judaism
 	"1179-7231" : "0; 1", // Relegere
+	"1553-9962" : "0", // Religion and Society in Central and Eastern Europe
 
+	
 	
 	
 };
@@ -1322,6 +1328,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
 
