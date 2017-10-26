@@ -1,6 +1,5 @@
 
 
-
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -426,7 +425,8 @@ var journalMapping = {
 	"0043-2547" : "!31531964X!", // Die Welt des Orients
 	"00432547" : "!31531964X!", // Die Welt des Orients
 	"2191-0456" : "!334013682!", // Hikma
-	
+	"1869-3296" : "!429189435!", // Journal of ancient Judaism
+	"0018-4276" : "!276562968!", // Homiletische Monatshefte
 
 };
 
@@ -569,6 +569,10 @@ var issnLangMapping = {
 	"0035-1423" : "fre", // Histoire des Religions
 	"0043-2547" : "ger", // Die Welt des Orients
 	"00432547" : "ger", // Die Welt des Orients
+	"0018-4276" : "ger", // Homiletische Monatshefte
+
+
+
 	
 	
 };
@@ -1085,6 +1089,8 @@ var issnPhysicalFormMapping = {
 	"0043-2547" : "O", // Die Welt des Orients
 	"00432547" : "O", // Die Welt des Orients
 	"2191-0456" : "A", // Hikma
+	"1869-3296" : "O", // Journal of ancient Judaism
+	"0018-4276" : "O", // Homiletische Monatshefte
 	
 	
 };
@@ -1289,6 +1295,7 @@ var issnSsgMapping = {
 	"2159-8711" : "0; 1", // Journal for the sociological integration of religion and society
 	"0035-1423" : "0", // Histoire des Religions
 	"2191-0456" : "0", // Hikma
+	"1869-3296" : "0; 1", // Journal of ancient Judaism
 	
 	
 };
@@ -1306,4 +1313,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
