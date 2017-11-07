@@ -430,7 +430,8 @@ var journalMapping = {
 	"1179-7231" : "!348749139!", // Relegere
 	"1553-9962" : "!281295107!", // Religion and Society in Central and Eastern Europe
 	"2006-5442" : "!398958882!", // Journal of religion and human relations
-	
+	"0031-8159" : "!27773407X!", // Philosophische Rundschau
+	"00318159" : "!27773407X!", // Philosophische Rundschau
 
 };
 
@@ -574,6 +575,8 @@ var issnLangMapping = {
 	"0043-2547" : "ger", // Die Welt des Orients
 	"00432547" : "ger", // Die Welt des Orients
 	"0018-4276" : "ger", // Homiletische Monatshefte
+	"0031-8159" : "ger", // Philosophische Rundschau
+	"00318159" : "ger", // Philosophische Rundschau
 
 
 
@@ -1098,7 +1101,8 @@ var issnPhysicalFormMapping = {
 	"1179-7231" : "O", // Relegere
 	"1553-9962" : "O", // Religion and Society in Central and Eastern Europe
 	"2006-5442" : "O", // Journal of religion and human relations
-
+	"0031-8159" : "O", // Philosophische Rundschau
+	"00318159" : "O", // Philosophische Rundschau
 	
 	
 };
@@ -1330,5 +1334,6 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
 
