@@ -1,5 +1,6 @@
 
 
+
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -432,6 +433,8 @@ var journalMapping = {
 	"2006-5442" : "!398958882!", // Journal of religion and human relations
 	"0031-8159" : "!27773407X!", // Philosophische Rundschau
 	"00318159" : "!27773407X!", // Philosophische Rundschau
+	"1980-6736" : "!28135765X!", // Teocomunicação
+	
 
 };
 
@@ -577,6 +580,7 @@ var issnLangMapping = {
 	"0018-4276" : "ger", // Homiletische Monatshefte
 	"0031-8159" : "ger", // Philosophische Rundschau
 	"00318159" : "ger", // Philosophische Rundschau
+	"1980-6736" : "por", // Teocomunicação
 
 
 
@@ -1103,6 +1107,7 @@ var issnPhysicalFormMapping = {
 	"2006-5442" : "O", // Journal of religion and human relations
 	"0031-8159" : "O", // Philosophische Rundschau
 	"00318159" : "O", // Philosophische Rundschau
+	"1980-6736" : "O", // Teocomunicação
 	
 	
 };
@@ -1153,6 +1158,7 @@ var issnLicenceFieldMapping = {
 	"1179-7231" : "l", // Relegere
 	"1553-9962" : "l", // Religion and Society in Central and Eastern Europe
 	"2006-5442" : "l", // Journal of religion and human relations
+	"1980-6736" : "l", // Teocomunicação
 
 	
 	
@@ -1334,6 +1340,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
 
