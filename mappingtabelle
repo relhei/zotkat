@@ -435,6 +435,7 @@ var journalMapping = {
 	"1980-6736" : "!28135765X!", // Teocomunicação
 	"2365-6565" : "!281361843!", // Ethik und Gesellschaft
 	"2053-6712" : "!360558348!", // Secularism and Nonreligion
+	"2011-9771" : "!478583346!", // Revista Albertus Magnus
 	
 
 };
@@ -583,6 +584,7 @@ var issnLangMapping = {
 	"00318159" : "ger", // Philosophische Rundschau
 	"1980-6736" : "por", // Teocomunicação
 	"2365-6565" : "ger", // Ethik und Gesellschaft
+	"2011-9771" : "spa", // Revista Albertus Magnus
 
 
 
@@ -1112,6 +1114,7 @@ var issnPhysicalFormMapping = {
 	"1980-6736" : "O", // Teocomunicação
 	"2365-6565" : "O", // Ethik und Gesellschaft
 	"2053-6712" : "O", // Secularism and Nonreligion
+	"2011-9771" : "O", // Revista Albertus Magnus
 
 	
 	
@@ -1164,6 +1167,7 @@ var issnLicenceFieldMapping = {
 	"1980-6736" : "l", // Teocomunicação
 	"2365-6565" : "l", // Ethik und Gesellschaft
 	"2053-6712" : "l", // Secularism and Nonreligion
+	"2011-9771" : "l", // Revista Albertus Magnus
 
 	
 	
