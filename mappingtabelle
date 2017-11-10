@@ -436,6 +436,7 @@ var journalMapping = {
 	"2365-6565" : "!281361843!", // Ethik und Gesellschaft
 	"2053-6712" : "!360558348!", // Secularism and Nonreligion
 	"2011-9771" : "!478583346!", // Revista Albertus Magnus
+	"2413-9459" : "!477219799!", // Stellenbosch Theological Journal = Stellenbosch Teologiese Joernaal (STJ) 
 	
 
 };
@@ -585,6 +586,7 @@ var issnLangMapping = {
 	"1980-6736" : "por", // Teocomunicação
 	"2365-6565" : "ger", // Ethik und Gesellschaft
 	"2011-9771" : "spa", // Revista Albertus Magnus
+	
 
 
 
@@ -1115,6 +1117,7 @@ var issnPhysicalFormMapping = {
 	"2365-6565" : "O", // Ethik und Gesellschaft
 	"2053-6712" : "O", // Secularism and Nonreligion
 	"2011-9771" : "O", // Revista Albertus Magnus
+	"2413-9459" : "O", // Stellenbosch Theological Journal = Stellenbosch Teologiese Joernaal (STJ) 
 
 	
 	
@@ -1168,6 +1171,7 @@ var issnLicenceFieldMapping = {
 	"2365-6565" : "l", // Ethik und Gesellschaft
 	"2053-6712" : "l", // Secularism and Nonreligion
 	"2011-9771" : "l", // Revista Albertus Magnus
+	"2413-9459" : "l", // Stellenbosch Theological Journal = Stellenbosch Teologiese Joernaal (STJ) 
 
 	
 	
@@ -1350,5 +1354,6 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
 
