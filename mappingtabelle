@@ -437,7 +437,9 @@ var journalMapping = {
 	"2053-6712" : "!360558348!", // Secularism and Nonreligion
 	"2011-9771" : "!478583346!", // Revista Albertus Magnus
 	"2413-9459" : "!477219799!", // Stellenbosch Theological Journal = Stellenbosch Teologiese Joernaal (STJ) 
-	
+	"2509-9957, 2509-9965" :"!48898503X!", // International journal of Latin American religions
+	"2509-9957" :"!48898503X!", // International journal of Latin American religions
+	"2509-9965" :"!48898503X!", // International journal of Latin American religions
 
 };
 
@@ -1118,6 +1120,7 @@ var issnPhysicalFormMapping = {
 	"2053-6712" : "O", // Secularism and Nonreligion
 	"2011-9771" : "O", // Revista Albertus Magnus
 	"2413-9459" : "O", // Stellenbosch Theological Journal = Stellenbosch Teologiese Joernaal (STJ) 
+	"2509-9957, 2509-9965" : "O", // International journal of Latin American religions
 
 	
 	
@@ -1172,6 +1175,7 @@ var issnLicenceFieldMapping = {
 	"2053-6712" : "l", // Secularism and Nonreligion
 	"2011-9771" : "l", // Revista Albertus Magnus
 	"2413-9459" : "l", // Stellenbosch Theological Journal = Stellenbosch Teologiese Joernaal (STJ) 
+	
 
 	
 	
@@ -1335,6 +1339,7 @@ var issnSsgMapping = {
 	"1553-9962" : "0", // Religion and Society in Central and Eastern Europe
 	"2006-5442" : "0", // Journal of religion and human relations
 	"2053-6712" : "0", // Secularism and Nonreligion
+	"2509-9957, 2509-9965" : "0", // International journal of Latin American religions
 
 	
 	
@@ -1354,6 +1359,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
 
