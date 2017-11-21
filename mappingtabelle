@@ -437,9 +437,10 @@ var journalMapping = {
 	"2053-6712" : "!360558348!", // Secularism and Nonreligion
 	"2011-9771" : "!478583346!", // Revista Albertus Magnus
 	"2413-9459" : "!477219799!", // Stellenbosch Theological Journal = Stellenbosch Teologiese Joernaal (STJ) 
-	"2509-9957, 2509-9965" :"!48898503X!", // International journal of Latin American religions
-	"2509-9957" :"!48898503X!", // International journal of Latin American religions
-	"2509-9965" :"!48898503X!", // International journal of Latin American religions
+	"2509-9957, 2509-9965" : "!48898503X!", // International journal of Latin American religions
+	"2509-9957" : "!48898503X!", // International journal of Latin American religions
+	"2509-9965" : "!48898503X!", // International journal of Latin American religions
+	"1540-6385" : "!094110913!", // Dialog
 
 };
 
@@ -879,7 +880,7 @@ var issnPhysicalFormMapping = {
 	"1099-0046" : "A", // Review of biblical literature !!pppn
 	"1089-7747" : "A", // TC !!eppn
 	"1467-9647" : "A", // Teaching theology & religion !!eppn
-	"1540-6385" : "A", // Dialog !!eppn
+	"1540-6385" : "O", // Dialog !!eppn
 	"1661-3317" : "O", // Lectio difficilior !!eppn
 	"1473-4257" : "A", // Journal of medical ethics !!eppn
 	"1468-2400" : "O", // International journal of systematic theology !!eppn
