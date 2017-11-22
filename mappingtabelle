@@ -441,6 +441,7 @@ var journalMapping = {
 	"2509-9957" : "!48898503X!", // International journal of Latin American religions
 	"2509-9965" : "!48898503X!", // International journal of Latin American religions
 	"1540-6385" : "!094110913!", // Dialog
+	"2176-1078" : "!322767741!", // Estudos de religião
 
 };
 
@@ -589,6 +590,7 @@ var issnLangMapping = {
 	"1980-6736" : "por", // Teocomunicação
 	"2365-6565" : "ger", // Ethik und Gesellschaft
 	"2011-9771" : "spa", // Revista Albertus Magnus
+	"2176-1078" : "por", // Estudos de religião
 	
 
 
@@ -1122,6 +1124,7 @@ var issnPhysicalFormMapping = {
 	"2011-9771" : "O", // Revista Albertus Magnus
 	"2413-9459" : "O", // Stellenbosch Theological Journal = Stellenbosch Teologiese Joernaal (STJ) 
 	"2509-9957, 2509-9965" : "O", // International journal of Latin American religions
+	"2176-1078" : "O", // Estudos de religião
 
 	
 	
@@ -1176,6 +1179,7 @@ var issnLicenceFieldMapping = {
 	"2053-6712" : "l", // Secularism and Nonreligion
 	"2011-9771" : "l", // Revista Albertus Magnus
 	"2413-9459" : "l", // Stellenbosch Theological Journal = Stellenbosch Teologiese Joernaal (STJ) 
+	"2176-1078" : "l", // Estudos de religião
 	
 
 	
