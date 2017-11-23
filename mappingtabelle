@@ -1,5 +1,6 @@
 
 
+
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -442,6 +443,9 @@ var journalMapping = {
 	"2509-9965" : "!48898503X!", // International journal of Latin American religions
 	"1540-6385" : "!094110913!", // Dialog
 	"2176-1078" : "!322767741!", // Estudos de religião
+	"1386-2820, 1572-8447" : "!104558555!", // Ethical theory and moral practice
+	"1572-8447" : "!104558555!", // Ethical theory and moral practice
+	"1386-2820" : "!104558555!", // Ethical theory and moral practice
 
 };
 
@@ -1125,6 +1129,10 @@ var issnPhysicalFormMapping = {
 	"2413-9459" : "O", // Stellenbosch Theological Journal = Stellenbosch Teologiese Joernaal (STJ) 
 	"2509-9957, 2509-9965" : "O", // International journal of Latin American religions
 	"2176-1078" : "O", // Estudos de religião
+	"1386-2820, 1572-8447" : "O", // Ethical theory and moral practice
+	"1572-8447" : "O", // Ethical theory and moral practice
+	"1386-2820" : "O", // Ethical theory and moral practice
+
 
 	
 	
