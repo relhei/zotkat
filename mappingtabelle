@@ -446,6 +446,9 @@ var journalMapping = {
 	"1386-2820, 1572-8447" : "!104558555!", // Ethical theory and moral practice
 	"1572-8447" : "!104558555!", // Ethical theory and moral practice
 	"1386-2820" : "!104558555!", // Ethical theory and moral practice
+	"00312789" : "!121191761!", // Pastoral psychology
+	"1573-6679" : "!121191761!", // Pastoral psychology
+	"0031-2789" : "!121191761!", // Pastoral psychology
 
 };
 
@@ -1132,6 +1135,7 @@ var issnPhysicalFormMapping = {
 	"1386-2820, 1572-8447" : "O", // Ethical theory and moral practice
 	"1572-8447" : "O", // Ethical theory and moral practice
 	"1386-2820" : "O", // Ethical theory and moral practice
+	"00312789" : "O", // Pastoral psychology
 
 
 	
@@ -1372,5 +1376,4 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
