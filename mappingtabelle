@@ -1,6 +1,5 @@
 
 
-
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -449,6 +448,9 @@ var journalMapping = {
 	"00312789" : "!121191761!", // Pastoral psychology
 	"1573-6679" : "!121191761!", // Pastoral psychology
 	"0031-2789" : "!121191761!", // Pastoral psychology
+	"0038-1527, 1873-930X" : "!271774215!", // Sophia
+	"1873-930X" : "!271774215!", // Sophia
+	"0038-1527" : "!271774215!", // Sophia
 
 };
 
@@ -1136,6 +1138,7 @@ var issnPhysicalFormMapping = {
 	"1572-8447" : "O", // Ethical theory and moral practice
 	"1386-2820" : "O", // Ethical theory and moral practice
 	"00312789" : "O", // Pastoral psychology
+	"0038-1527, 1873-930X" : "O", // Sophia
 
 
 	
