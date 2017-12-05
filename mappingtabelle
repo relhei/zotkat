@@ -1,6 +1,5 @@
 
 
-
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -1144,6 +1143,8 @@ var issnPhysicalFormMapping = {
 	"00312789" : "O", // Pastoral psychology
 	"0038-1527, 1873-930X" : "O", // Sophia
 	"0022-4197, 1573-6571" : "O", // Journal of Religion and Health
+	"1573-6571" : "O", // Journal of Religion and Health
+	"0022-4197" : "O", // Journal of Religion and Health
 
 
 	
@@ -1366,6 +1367,8 @@ var issnSsgMapping = {
 	"2053-6712" : "0", // Secularism and Nonreligion
 	"2509-9957, 2509-9965" : "0", // International journal of Latin American religions
 	"0022-4197, 1573-6571" : "0", // Journal of Religion and Health
+	"1573-6571" : "0", // Journal of Religion and Health
+	"0022-4197" : "0", // Journal of Religion and Health
 
 	
 	
@@ -1385,5 +1388,4 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
