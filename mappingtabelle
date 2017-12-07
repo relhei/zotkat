@@ -1,5 +1,6 @@
 
 
+
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -454,6 +455,7 @@ var journalMapping = {
 	"0022-4197, 1573-6571" : "!121466191!", // Journal of Religion and Health
 	"1573-6571" : "!121466191!", // Journal of Religion and Health
 	"0022-4197" : "!121466191!", // Journal of Religion and Health
+	"2555-5111" : "!461242036!", // Journal international de bioéthique et d'éthique des sciences
 	
 };
 
@@ -1145,6 +1147,7 @@ var issnPhysicalFormMapping = {
 	"0022-4197, 1573-6571" : "O", // Journal of Religion and Health
 	"1573-6571" : "O", // Journal of Religion and Health
 	"0022-4197" : "O", // Journal of Religion and Health
+	"2555-5111" : "A", // Journal international de bioéthique et d'éthique des sciences
 
 
 	
@@ -1388,4 +1391,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
