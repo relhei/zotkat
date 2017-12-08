@@ -10,6 +10,7 @@ var journalMapping = {
 	"1467-9744" : "!090854799!", // Zygon
     "0891-5881" : "!023125381!", // Dialogue and alliance
 	"0884-5379" : "!341092975!", // fides et historia
+	"08845379" : "!341092975!", // fides et historia
 	"1474-6700" : "!105283193!", // Theology and science  
 	"1462-2459" : "!094835578!", // Reformation & Renaissance review  
 	"0031-0328" : "!014896486!", // Palestine exploration quarterly 
@@ -456,6 +457,24 @@ var journalMapping = {
 	"1573-6571" : "!121466191!", // Journal of Religion and Health
 	"0022-4197" : "!121466191!", // Journal of Religion and Health
 	"2555-5111" : "!461242036!", // Journal international de bioéthique et d'éthique des sciences
+	"00378887" : "!014392976!", // Archivum historicum Societatis Iesu
+	"0037-8887" : "!014392976!", // Archivum historicum Societatis Iesu
+	"2295-6093" : "!014393662!", // Augustiniana
+	"0045-0308" : "!015178129!", // Australian biblical review
+	"00450308" : "!015178129!", // Australian biblical review
+	"1886-4945" : "!302971882!", //  Cauriensia
+	"1133-0104" : "!032733054!", // Anuario de historia de la Iglesia 
+	"0010-3497" : "!014963337!", // Communicatio Socialis
+	"1930-1200" : "!052644464!", // Contagion
+	"1075-7201" : "!052644464!", // Contagion
+	"1666-7832" : "!103190163!", // DavarLogos
+	"0210-1610" : "!015178765!", // Estudios eclesiásticos
+	"1945-9718" : "!014421356!", // Franciscan Studies
+	"0080-5459" : "!014421356!", // Franciscan Studies
+	"0018-215X" : "!014950790!", // Hispania Sacra
+	
+	
+	
 	
 };
 
@@ -628,6 +647,7 @@ var issnPhysicalFormMapping = {
 	"1467-9744" : "O", // Zygon
     "0891-5881" : "A", // Dialogue and alliance
 	"0884-5379" : "A", // fides et historia
+	"08845379" : "A", // fides et historia
 	"1474-6700" : "A", // Theology and science  
 	"1462-2459" : "A", // Reformation & Renaissance review  
 	"0031-0328" : "A", // Palestine exploration quarterly 
@@ -1148,6 +1168,21 @@ var issnPhysicalFormMapping = {
 	"1573-6571" : "O", // Journal of Religion and Health
 	"0022-4197" : "O", // Journal of Religion and Health
 	"2555-5111" : "A", // Journal international de bioéthique et d'éthique des sciences
+	"00378887" : "A", // Archivum historicum Societatis Iesu
+	"2295-6093" : "A", // Augustiniana
+	"0045-0308" : "A", // Australian biblical review
+	"00450308" : "A", // Australian biblical review
+	"1886-4945" : "A", //  Cauriensia
+	"1133-0104" : "A", // Anuario de historia de la Iglesia 
+	"0010-3497" : "A", // Communicatio Socialis
+	"1930-1200" : "A", // Contagion
+	"1075-7201" : "A", // Contagion
+	"1666-7832" : "A", // DavarLogos
+	"0210-1610" : "A", // Estudios eclesiásticos
+	"1945-9718" : "A", // Franciscan Studies
+	"0080-5459" : "A", // Franciscan Studies
+	"0018-215X" : "A", // Hispania Sacra
+	
 
 
 	
