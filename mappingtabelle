@@ -1,6 +1,5 @@
 
 
-
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -472,6 +471,14 @@ var journalMapping = {
 	"1945-9718" : "!014421356!", // Franciscan Studies
 	"0080-5459" : "!014421356!", // Franciscan Studies
 	"0018-215X" : "!014950790!", // Hispania Sacra
+	"2267-7313" : "!398332924!", // Histoire, monde et cultures religieuses
+	"0360-9669, 2050-8557" : "!014815435!", // Horizons
+	"0360-9669" : "!014815435!", // Horizons
+	"1740-3553, 1745-5278" : "!256620571!", // Journal of Anglican Studies
+	"1740-3553" : "!256620571!", // Journal of Anglican Studies
+	"1745-5278" : "!256620571!", // Journal of Anglican Studies
+	"1467-9809" : "!095551751!", // Journal of religious history
+	"0210-2900" : "!026379554!", // Mayéutica
 	
 	
 	
@@ -623,8 +630,7 @@ var issnLangMapping = {
 	"1980-6736" : "por", // Teocomunicação
 	"2365-6565" : "ger", // Ethik und Gesellschaft
 	"2011-9771" : "spa", // Revista Albertus Magnus
-	"2176-1078" : "por", // Estudos de religião
-	
+	"0210-2900" : "spa", // Mayéutica
 
 
 
@@ -1182,6 +1188,11 @@ var issnPhysicalFormMapping = {
 	"1945-9718" : "A", // Franciscan Studies
 	"0080-5459" : "A", // Franciscan Studies
 	"0018-215X" : "A", // Hispania Sacra
+	"2267-7313" : "A", // Histoire, monde et cultures religieuses
+	"0360-9669, 2050-8557" : "A", // Horizons
+	"1740-3553, 1745-5278" : "O", // Journal of Anglican Studies
+	"1467-9809" : "O", // Journal of religious history
+	"0210-2900" : "A", // Mayéutica
 	
 
 
@@ -1407,6 +1418,8 @@ var issnSsgMapping = {
 	"0022-4197, 1573-6571" : "0", // Journal of Religion and Health
 	"1573-6571" : "0", // Journal of Religion and Health
 	"0022-4197" : "0", // Journal of Religion and Health
+	"1467-9809" : "0", // Journal of religious history
+	
 
 	
 	
