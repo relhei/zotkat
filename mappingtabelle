@@ -479,7 +479,16 @@ var journalMapping = {
 	"1745-5278" : "!256620571!", // Journal of Anglican Studies
 	"1467-9809" : "!095551751!", // Journal of religious history
 	"0210-2900" : "!026379554!", // Mayéutica
-	
+	"0030-252X" : "!015178552!", // One in Christ
+	"1783-1652" : "!015181561!", // Ons Geestelijk Erf
+	"0034-1258" : "!01485712X!", // Recherches de science religieuse 
+	"2055-7973, 2055-7981" : "!428283136!", // British Catholic History
+	"2055-7973" : "!428283136!", // British Catholic History
+	"2055-7981" : "!428283136!", // British Catholic History
+	"1467-9647" : "!098253379!", // Teaching theology & religion
+	"1768-9260" : "!11277668X!", // Revue d'Etudes Augustiniennes et Patristiques
+	"0080-2654" : "!014429837!", // Revue Théologique de Louvain
+	"0316-5345" : "!015183734!", // Science et Esprit
 	
 	
 	
@@ -1193,7 +1202,14 @@ var issnPhysicalFormMapping = {
 	"1740-3553, 1745-5278" : "O", // Journal of Anglican Studies
 	"1467-9809" : "O", // Journal of religious history
 	"0210-2900" : "A", // Mayéutica
-	
+	"0030-252X" : "A", // One in Christ
+	"1783-1652" : "A", // Ons Geestelijk Erf
+	"0034-1258" : "A", // Recherches de science religieuse
+	"2055-7973, 2055-7981" : "O", // British Catholic 
+	"1467-9647" : "O", // Teaching theology & religion
+	"1768-9260" : "A", // Revue d'Etudes Augustiniennes et Patristiques
+	"0080-2654" : "A", // Revue Théologique de Louvain
+	"0316-5345" : "A", // Science et Esprit
 
 
 	
@@ -1419,6 +1435,7 @@ var issnSsgMapping = {
 	"1573-6571" : "0", // Journal of Religion and Health
 	"0022-4197" : "0", // Journal of Religion and Health
 	"1467-9809" : "0", // Journal of religious history
+	
 	
 
 	
