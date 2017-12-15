@@ -1,5 +1,6 @@
 
 
+
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -66,8 +67,9 @@ var journalMapping = {
 	"0031-0328" : "!112775594!", // Palestine exploration quarterly
 	"1745-5316" : "!119461234!", // Ecclesiology !!hier kein direkter Downlaod, sondern über Zotero-button
 	"0034-6373" : "!401709590!", // Review & Expositor
-	"0034-4125" : "!014537311!", // Religious studies 
-	"1469-901X" : "!014537311!", // Religious studies
+	"0034-4125" : "!079718671!", // Religious studies 
+	"1469-901X" : "!079718671!", // Religious studies
+	"0034-4125, 1469-901X" : "!079718671!", // Religious studies 
 	"1573-3831" : "!112775772!", // Mission studies
 	"1573-3831" : "!01622664X!", // Mission studies
 	"0168-9789" : "!01622664X!", // Mission studies
@@ -91,8 +93,8 @@ var journalMapping = {
 	"2042-0587" : "!318518368!", // Studies in religion = Sciences religieuses
 	"1380-7854" : "!048518425!", // Medieval encounters
 	"1570-0674" : "!048518425!", // Medieval encounters
-	"0319-485X" : "!01455027X!", // Religious studies review
-	"1748-0922" : "!01455027X!", // Religious studies review
+	"0319-485X" : "!256620695!", // Religious studies review
+	"1748-0922" : "!256620695!", // Religious studies review
 	"0497-1817" : "!014862522!", // Temenos
 	"2342-7256" : "!014862522!", // Temenos
     "1030-570X" : "!32599787X!", // Pacifica
@@ -486,10 +488,42 @@ var journalMapping = {
 	"2055-7973" : "!428283136!", // British Catholic History
 	"2055-7981" : "!428283136!", // British Catholic History
 	"1467-9647" : "!098253379!", // Teaching theology & religion
+	"13684868" : "!098253379!", // Teaching theology & religion
 	"1768-9260" : "!11277668X!", // Revue d'Etudes Augustiniennes et Patristiques
 	"0080-2654" : "!014429837!", // Revue Théologique de Louvain
 	"0316-5345" : "!015183734!", // Science et Esprit
+	"1097-6566" : "!112178723!", // Stone-Campbell journal
+	"2295-3019" : "!015198510!", // Studia Canonica
+	"0039-6761" : "!014413094!", // Swedish Theological Quarterly
+	"2295-5186" : "!091176336!", // Theoforum
+	"1495-7922" : "!091176336!", // Theoforum
+	"0169-7536" : "!016204123!", // Zeitschrift für Dialektische Theologie
+	"0270-2533" : "!273890433!", // Trinity Seminary Review
+	"0254-4407" : "!014429802!", // Zwingliana
+	"1520-7307" : "!064449823!", // The Southern Baptist Journal of Theology
+	"2031-5929" : "!065483006!", // Annali di Scienze Religiose
+	"0034-673X, 2211-4866" : "!257192638!", // Review of Religious Research
+	"0034-673X" : "!257192638!", // Review of Religious Research
+	"2211-4866" : "!257192638!", // Review of Religious Research
+	"1468-5906" : "!093888538!", // Journal for the Scientific Study of Religion
+	"0081-6175" : "!014421143!", // Studi e materiali di storia delle religioni
+	"0393-8417" : "!014421143!", // Studi e materiali di storia delle religioni
+	"0036-1690" : "!014421143!", // Studi e materiali di storia delle religioni
+	"1069-4404" : "!263021270!", // Sociology of religion
+	"1759-8818" : "!263021270!", // Sociology of religion
+	"1553-3913" : "!015906353!", // Journal of feminist studies in religion
+	"8755-4178" : "!015906353!", // Journal of feminist studies in religion
+	"1050-8619" : "!025188534!", // The International Journal for the Psychology of Religion
+	"2056-9971" : "!428338216!", // International journal of Christianity & education
+	"1749-8171" : "!278762514!", // Religion compass
+	"1092-6690, 1541-8480" : "!066688779!", // Nova religio
+	"1092-6690" : "!066688779!", // Nova religio
+	"1541-8480" : "!066688779!", // Nova religio
+	"0075-2584" : "!014407884!", // Jahrbuch für christliche Sozialwissenschaften
+	"0044-2690" : "!014851555!", // Zeitschrift fuer Evangelisches Kirchenrecht
+	"1011-7601" : "!477530001!", // Journal for the Study of Religion
 	
+
 	
 	
 };
@@ -710,8 +744,9 @@ var issnPhysicalFormMapping = {
 	"1743-1301" : "A", // Palestine exploration quarterly
 	"1745-5316" : "A", // Ecclesiology !!hier kein direkter Downlaod, sondern über Zotero-button
 	"0034-6373" : "O", // Review & Expositor
-	"0034-4125" : "A", // Religious studies 
-	"1469-901X" : "A", // Religious studies
+	"0034-4125" : "O", // Religious studies 
+	"1469-901X" : "O", // Religious studies
+	"0034-4125, 1469-901X" : "O", // Religious studies
 	"1573-3831" : "A", // Mission studies
 	"0168-9789" : "A", // Mission studies
 	"0091-6471" : "A", // Journal of psychology and theology
@@ -734,8 +769,8 @@ var issnPhysicalFormMapping = {
 	"2042-0587" : "O", // Studies in religion = Sciences religieuses
 	"1380-7854" : "A", // Medieval encounters
 	"1570-0674" : "A", // Medieval encounters
-	"0319-485X" : "A", // Religious studies review
-	"1748-0922" : "A", // Religious studies review
+	"0319-485X" : "O", // Religious studies review
+	"1748-0922" : "O", // Religious studies review
 	"0497-1817" : "A", // Temenos
 	"2342-7256" : "A", // Temenos
     "1030-570X" : "O", // Pacifica
@@ -1210,7 +1245,31 @@ var issnPhysicalFormMapping = {
 	"1768-9260" : "A", // Revue d'Etudes Augustiniennes et Patristiques
 	"0080-2654" : "A", // Revue Théologique de Louvain
 	"0316-5345" : "A", // Science et Esprit
-
+	"1097-6566" : "A", // Stone-Campbell journal
+	"2295-3019" : "A", // Studia Canonica
+	"0039-6761" : "A", // Swedish Theological Quarterly
+	"2295-5186" : "A", // Theoforum
+	"1495-7922" : "A", // Theoforum
+	"0169-7536" : "A", // Zeitschrift für Dialektische Theologie
+	"0270-2533" : "O", // Trinity Seminary Review
+	"02702533" : "O", // Trinity Seminary Review
+	"0254-4407" : "A", // Zwingliana
+	"1520-7307" : "A", // The Southern Baptist Journal of Theology
+	"2031-5929" : "A", // Annali di Scienze Religiose
+	"0034-673X, 2211-4866" : "O", // Review of Religious Research
+	"1468-5906" : "O", // Journal for the Scientific Study of Religion
+	"03938417" : "A", // Studi e materiali di storia delle religioni
+	"1069-4404, 1759-8818" : "O", // Sociology of religion
+	"1553-3913" : "A", // Journal of feminist studies in religion
+	"87554178, 15533913" : "A", // Journal of feminist studies in religion
+	"1050-8619" : "A", // The International Journal for the Psychology of Religion
+	"2056-9971" : "A", // International journal of Christianity & education
+	"1749-8171" : "O", // Religion compass
+	"1092-6690, 1541-8480" : "A", // Nova religio
+	"0075-2584" : "A", // Jahrbuch für christliche Sozialwissenschaften
+	"0044-2690" : "A", // Zeitschrift fuer Evangelisches Kirchenrecht
+	"1011-7601" : "O", // Journal for the Study of Religion
+	
 
 	
 	
@@ -1218,7 +1277,6 @@ var issnPhysicalFormMapping = {
 
 var issnLicenceFieldMapping = {
 	"1550-0195" : "l",
-	"2031-5929" : "l",
 	"1661-3317" : "l", // Lectio difficilior !!eppn
 	"2363-6696" : "l", // Entangled Religions
 	"1862-5886" : "l", // Zeitschrift für junge Religionswissenschaft
@@ -1303,6 +1361,7 @@ var issnSsgMapping = {
 	"0029-4500" : "0; 1", // Religion and literature
 	"0034-4125" : "0", // Religious studies 
 	"1469-901X" : "0", // Religious studies
+	"0034-4125, 1469-901X" : "0", // Religious studies
 	"0018-2710" : "0", // History of religions
 	"1545-6935" : "0", // History of religions
 	"0384-9694" : "0; 1", // Journal of religious ethics
@@ -1435,6 +1494,16 @@ var issnSsgMapping = {
 	"1573-6571" : "0", // Journal of Religion and Health
 	"0022-4197" : "0", // Journal of Religion and Health
 	"1467-9809" : "0", // Journal of religious history
+	"0034-673X, 2211-4866" : "0; 1", // Review of Religious Research
+	"03938417" : "0", // Studi e materiali di storia delle religioni
+	"1069-4404, 1759-8818" : "0; 1", // Sociology of religion
+	"1553-3913" : "0; 1", // Journal of feminist studies in religion
+	"87554178, 15533913" : "0; 1", // Journal of feminist studies in religion
+	"1050-8619" : "0; 1", // The International Journal for the Psychology of Religion
+	"1468-5906" : "0; 1", // Journal for the Scientific Study of Religion
+	"1749-8171" : "0", // Religion compass
+	"1092-6690, 1541-8480" : "0", // Nova religio
+	"1011-7601" : "0", // Journal for the Study of Religion
 	
 	
 
