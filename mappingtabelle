@@ -1,6 +1,5 @@
 
 
-
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -523,6 +522,7 @@ var journalMapping = {
 	"0044-2690" : "!014851555!", // Zeitschrift fuer Evangelisches Kirchenrecht
 	"1011-7601" : "!477530001!", // Journal for the Study of Religion
 	"1889-5662" : "!326864059!", // Facies Domini
+	"0212-1964" : "!016231767!", // Teología y catequesis
 	
 
 	
@@ -675,6 +675,8 @@ var issnLangMapping = {
 	"2365-6565" : "ger", // Ethik und Gesellschaft
 	"2011-9771" : "spa", // Revista Albertus Magnus
 	"0210-2900" : "spa", // Mayéutica
+	"1889-5662" : "spa", // Facies Domini
+	"0212-1964" : "spa", // Teología y catequesis
 
 
 
@@ -1271,6 +1273,7 @@ var issnPhysicalFormMapping = {
 	"0044-2690" : "A", // Zeitschrift fuer Evangelisches Kirchenrecht
 	"1011-7601" : "O", // Journal for the Study of Religion
 	"1889-5662" : "A", // Facies Domini
+	"0212-1964" : "A", // Teología y catequesis
 	
 
 	
@@ -1527,4 +1530,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
