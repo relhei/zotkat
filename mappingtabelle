@@ -523,6 +523,12 @@ var journalMapping = {
 	"1011-7601" : "!477530001!", // Journal for the Study of Religion
 	"1889-5662" : "!326864059!", // Facies Domini
 	"0212-1964" : "!016231767!", // Teología y catequesis
+	"0392-2855" : "!015148246!", // Analecta Augusiniana
+	"0003-6064" : "!014992124!", // Antonianum
+	"0392-2359" : "!014926180!", // Apollinaris
+	"1591-2957" : "!053393244!", // Archivio teologico torinese
+	"0210-1629" : "!015177998!", // Archivo teológico Granadino
+	
 	
 
 	
@@ -1274,6 +1280,12 @@ var issnPhysicalFormMapping = {
 	"1011-7601" : "O", // Journal for the Study of Religion
 	"1889-5662" : "A", // Facies Domini
 	"0212-1964" : "A", // Teología y catequesis
+	"0392-2855" : "A", // Analecta Augusiniana
+	"0003-6064" : "A", // Antonianum
+	"0392-2359" : "A", // Apollinaris
+	"1591-2957" : "A", // Archivio teologico torinese
+	"0210-1629" : "A", // Archivo teológico Granadino
+	
 	
 
 	
