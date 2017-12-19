@@ -528,8 +528,38 @@ var journalMapping = {
 	"0392-2359" : "!014926180!", // Apollinaris
 	"1591-2957" : "!053393244!", // Archivio teologico torinese
 	"0210-1629" : "!015177998!", // Archivo teológico Granadino
-	
-	
+	"0004-0665" : "!014392941!", // Archivum Franciscanum historicum
+	"0004-802X" : "!015534588!", // Augustinus
+	"0210-0398" : "!01519101X!", // Ciencia Tomista
+	"0425-1466" : "!015186687!", // Ephemerides Mariologicae
+	"0210-7074" : "!015194566!", // Estudios josefinos
+	"0210-0363" : "!015194574!", // Estidios trinitarios
+	"0178-1626" : "!015133702!", // Forum Katholische Theologie
+	"1124-1225" : "!045289107!", // Hagiographica
+	"0253-620X" : "!015205215!", // Indian theological studies
+	"0021-0978" : "!015004333!", // Irénikon
+	"0021-2423" : "!015180689!", // Istina
+	"0021-3209" : "!015194124!", // Itinerarium
+	"1010-7215" : "!015539768!", // Lateranum
+	"0076-1508" : "!015180867!", // Lusitania sacra
+	"0211-2582" : "!015202054!", // Misiones extranjeras
+	"0580-1400" : "!014852195!", // Münchener theologische Zeitschrift
+	"0031-529X" : "!025189972!", // Periodica di re canonica
+	"0210-3877" : "!018664865!", // Phase
+	"0032-9622" : "!015182274!", // Proche-Orient chrétien
+	"1122-5661" : "!015239071!", // Recollectio
+	"0211-612X" : "!015230988!", // Revista agustiniana
+	"0034-8147" : "!015193446!", // Revista de espiritualidad
+	"0036-3537" : "!015183807!", // Salmanticensis
+	"0559-2186" : "!015183874!", // Scriptorium Victoriense
+	"0049-2353" : "!015021874!", // Stromata
+	"0039-3258" : "!01453455X!", // Studia monastica
+	"0585-766X" : "!015193594!", // Studium revista de filosofía y teología
+	"0392-4556" : "!015348334!", // Teresianum
+	"0342-1465" : "!014827182!", // Una Sancta
+	"0042-3718" : "!015193608!", // Verdad y vida
+	"0009-7756" : "!015191028!", // Ciudad de Dios
+
 
 	
 	
@@ -1285,8 +1315,41 @@ var issnPhysicalFormMapping = {
 	"0392-2359" : "A", // Apollinaris
 	"1591-2957" : "A", // Archivio teologico torinese
 	"0210-1629" : "A", // Archivo teológico Granadino
-	
-	
+	"0004-0665" : "A", // Archivum Franciscanum historicum
+	"0004-802X" : "A", // Augustinus
+	"0210-0398" : "A", // Ciencia Tomista
+	"0425-1466" : "A", // Ephemerides Mariologicae
+	"0210-7074" : "A", // Estudios josefinos
+	"0210-0363" : "A", // Estidios trinitarios
+	"0178-1626" : "A", // Forum Katholische Theologie
+	"1124-1225" : "A", // Hagiographica
+	"0253-620X" : "A", // Indian theological studies
+	"0021-0978" : "A", // Irénikon
+	"0021-2423" : "A", // Istina
+	"0021-3209" : "A", // Itinerarium
+	"1010-7215" : "A", // Lateranum
+	"0076-1508" : "A", // Lusitania sacra
+	"0211-2582" : "A", // Misiones extranjeras
+	"0580-1400" : "A", // Münchener theologische Zeitschrift
+	"0031-529X" : "A", // Periodica di re canonica
+	"0210-3877" : "A", // Phase
+	"0032-9622" : "A", // Proche-Orient chrétien
+	"1122-5661" : "A", // Recollectio
+	"0211-612X" : "A", // Revista agustiniana
+	"0034-8147" : "A", // Revista de espiritualidad
+	"0036-3537" : "A", // Salmanticensis
+	"0559-2186" : "A", // Scriptorium Victoriense
+	"0049-2353" : "A", // Stromata
+	"0039-3258" : "A", // Studia monastica
+	"0585-766X" : "A", // Studium revista de filosofía y teología
+	"0392-4556" : "A", // Teresianum
+	"0342-1465" : "A", // Una Sancta
+	"0042-3718" : "A", // Verdad y vida
+	"0009-7756" : "A", // Ciudad de Dios
+
+
+
+
 
 	
 	
@@ -1341,6 +1404,8 @@ var issnLicenceFieldMapping = {
 	"2011-9771" : "l", // Revista Albertus Magnus
 	"2413-9459" : "l", // Stellenbosch Theological Journal = Stellenbosch Teologiese Joernaal (STJ) 
 	"2176-1078" : "l", // Estudos de religião
+	
+
 	
 
 	
@@ -1445,7 +1510,7 @@ var issnSsgMapping = {
 	"1364-436X" : "0; 1", // International journal of children's spirituality !!pppn
 	"0959-6410" : "0; 1", // Islam and Christian-Muslim relations !!pppn
 	"1203-1542" : "0; 1", // The journal of Hebrew scriptures !!eppn
-	"1467-9647" : "0; 1", // Teaching theology & religion !!eppn
+	"1467-9647" : "1", // Teaching theology & religion !!eppn
 	"1473-4257" : "0; 1", // Journal of medical ethics !!eppn
 	"0969-7330" : "0; 1", // Nursing ethics !!pppn
 	"1477-0989" : "0; 1", // Nursing ethics !!eppn
@@ -1542,4 +1607,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
