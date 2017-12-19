@@ -1495,7 +1495,7 @@ var issnSsgMapping = {
 	"2179-0019" : "0; 1", // Plura, revista de estudos de religião
 	"21790019" : "0; 1", // Plura, revista de estudos de religião
 	"2175-5841" : "0", // Horizonte
-	"2159-6875" : "0", // Jonathan Edwards studies
+	"2159-6875" : "1", // Jonathan Edwards studies
 	"2408-9370" : "0; 1", // Journal for religion, film and media
 	"2414-0201" : "0; 1", // Journal for religion, film and media
 	"2159-8711" : "0; 1", // Journal for the sociological integration of religion and society
@@ -1542,5 +1542,4 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
