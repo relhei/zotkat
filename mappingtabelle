@@ -559,7 +559,7 @@ var journalMapping = {
 	"0342-1465" : "!014827182!", // Una Sancta
 	"0042-3718" : "!015193608!", // Verdad y vida
 	"0009-7756" : "!015191028!", // Ciudad de Dios
-
+	"0017-4114" : "!014405377!", // Gregorianum
 
 	
 	
@@ -1346,6 +1346,8 @@ var issnPhysicalFormMapping = {
 	"0342-1465" : "A", // Una Sancta
 	"0042-3718" : "A", // Verdad y vida
 	"0009-7756" : "A", // Ciudad de Dios
+	"0017-4114" : "A", // Gregorianum
+
 
 
 
