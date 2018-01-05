@@ -35,6 +35,7 @@ var journalMapping = {
 	"1743-1719" : "!098784013!", // Political theology   
 	"0360-6503" : "!015202178!", // Process studies   
 	"0733-4273" : "!015054578!", // Journal of psychology and Christianity
+	"07334273" : "!015054578!", // Journal of psychology and Christianity
 	"0929-0761" : "!041601858!", // Dead Sea discoveries   
 	"1568-5179" : "!041601858!", // Dead Sea discoveries  
 	"0022-2097" : "!014412152!", // The journal of Jewish studies
@@ -563,6 +564,10 @@ var journalMapping = {
 	"21509301" : "!365211141!", //  Religion and society
 	"2150-9298, 2150-9301" : "!365211141!", //  Religion and society
 	"2150-9301" : "!365211141!", //  Religion and society
+	"0008-1795" : "!015177513!", // Calvin Theological Journal
+	"2593-0486" : "!493816305!", // Marriage, Families and Spirituality
+	"00027650" : "!015022609!", // The American Benedictine Review
+	"0002-7650" : "!015022609!", // The American Benedictine Review
 	
 	
 };
@@ -760,6 +765,7 @@ var issnPhysicalFormMapping = {
 	"1743-1719" : "A", // Political theology   
 	"0360-6503" : "A", // Process studies   
 	"0733-4273" : "A", // Journal of psychology and Christianity
+	"07334273" : "A", // Journal of psychology and Christianity
 	"0929-0761" : "A", // Dead Sea discoveries   
 	"1568-5179" : "A", // Dead Sea discoveries  
 	"0022-2097" : "A", // The journal of Jewish studies
@@ -829,6 +835,7 @@ var issnPhysicalFormMapping = {
 	"0588-3237" : "A", // Colloquium
 	"0003-2980" : "A", // Andrews University Seminary studies
 	"0118-8534" : "A", // Asian journal of pentecostal studies
+	"01188534" : "A", // Asian journal of pentecostal studies
 	"1477-8351" : "A", // Aramaic studies
 	"1745-5227" : "A", // Aramaic studies
 	"0229-2807" : "A", // ARC
@@ -1351,9 +1358,10 @@ var issnPhysicalFormMapping = {
 	"0017-4114" : "A", // Gregorianum
 	"21509301" : "O", //  Religion and society
 	"2150-9298, 2150-9301" : "O", //  Religion and society
-
-
-
+	"0008-1795" : "A", // Calvin Theological Journal
+	"2593-0486" : "A", // Marriage, Families and Spirituality
+	"00027650" : "A", // The American Benedictine Review
+	"0002-7650" : "A", // The American Benedictine Review
 
 
 	
@@ -1615,6 +1623,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
 
