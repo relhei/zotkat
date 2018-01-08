@@ -1,5 +1,6 @@
 
 
+
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -568,6 +569,10 @@ var journalMapping = {
 	"2593-0486" : "!493816305!", // Marriage, Families and Spirituality
 	"00027650" : "!015022609!", // The American Benedictine Review
 	"0002-7650" : "!015022609!", // The American Benedictine Review
+	"0008-8501" : "!014399490!", // Catholica
+	"00105236" : "!015241661!", // Concilium - Englische Ausgabe !!!!
+	"0010-5236" : "!015241661!", // Concilium - Englische Ausgabe !!!!
+	"0018-0645" : "!014406144!", // Herder Korrespondenz
 	
 	
 };
@@ -1362,6 +1367,11 @@ var issnPhysicalFormMapping = {
 	"2593-0486" : "A", // Marriage, Families and Spirituality
 	"00027650" : "A", // The American Benedictine Review
 	"0002-7650" : "A", // The American Benedictine Review
+	"0008-8501" : "A", // Catholica
+	"00105236" : "A", // Concilium - Englische Ausgabe !!!!
+	"0010-5236" : "A", // Concilium - Englische Ausgabe !!!!
+	"00180645" : "A", // Herder Korrespondenz
+	
 
 
 	
@@ -1602,6 +1612,7 @@ var issnSsgMapping = {
 	"21509301" : "0", //  Religion and society
 	"2150-9298, 2150-9301" : "0", //  Religion and society
 	"2150-9301" : "0", //  Religion and society
+	"2267-7313" : "0; 1", // Histoire, monde et cultures religieuses
 	
 	
 
