@@ -564,6 +564,7 @@ var journalMapping = {
 	"0017-4114" : "!014405377!", // Gregorianum
 	"21509301" : "!365211141!", //  Religion and society
 	"2150-9298, 2150-9301" : "!365211141!", //  Religion and society
+	"2150-9298" : "!365211141!", //  Religion and society
 	"2150-9301" : "!365211141!", //  Religion and society
 	"0008-1795" : "!015177513!", // Calvin Theological Journal
 	"2593-0486" : "!493816305!", // Marriage, Families and Spirituality
@@ -573,6 +574,7 @@ var journalMapping = {
 	"00105236" : "!015241661!", // Concilium - Englische Ausgabe !!!!
 	"0010-5236" : "!015241661!", // Concilium - Englische Ausgabe !!!!
 	"0018-0645" : "!014406144!", // Herder Korrespondenz
+	"0014-1437" : "!015178757!", // Estudios Biblicos
 	
 	
 };
@@ -1371,6 +1373,7 @@ var issnPhysicalFormMapping = {
 	"00105236" : "A", // Concilium - Englische Ausgabe !!!!
 	"0010-5236" : "A", // Concilium - Englische Ausgabe !!!!
 	"00180645" : "A", // Herder Korrespondenz
+	"0014-1437" : "A", // Estudios Biblicos
 	
 
 
