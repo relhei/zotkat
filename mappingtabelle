@@ -576,6 +576,13 @@ var journalMapping = {
 	"0014-1437" : "!015178757!", // Estudios Biblicos
 	"1689-8311" : "!477533728!", // European Journal for Philosophy of Religion
 	"0024-5100" : "!014407558!", // Liturgisches Jahrbuch 
+	"1025-6555, 1814-2036" : "!055361250!", // Mitteilungen zur Christlichen Archäologie
+	"1025-6555" : "!055361250!", // Mitteilungen zur Christlichen Archäologie
+	"1814-2036" : "!055361250!", // Mitteilungen zur Christlichen Archäologie
+	"2565-7348" : "!014904519!", // Tijdschrift voor Theologie
+	"0039-6761" : "!014413094!", // Svensk teologisk kvartalskrift
+	"0044-3123" : "!014852152!", // Zeitschrift für Missionswissenschaft und Religionswissenschaft
+	"1120-267X" : "!015202550!", // Teologia, rivista della Facoltà Teologica dell'Italia Settentrionale
 	
 	
 };
@@ -601,6 +608,7 @@ var languageMapping = {
 	"pt" : "por",
 	"es" : "spa",
 	"it" : "ita",
+	"en-US" : "eng",
 };
 
 var issnLangMapping = {
@@ -728,6 +736,7 @@ var issnLangMapping = {
 	"0210-2900" : "spa", // Mayéutica
 	"1889-5662" : "spa", // Facies Domini
 	"0212-1964" : "spa", // Teología y catequesis
+	"1120267X" : "ita", // Teologia, rivista della Facoltà Teologica dell'Italia Settentrionale
 
 
 
@@ -1376,6 +1385,11 @@ var issnPhysicalFormMapping = {
 	"00180645" : "A", // Herder Korrespondenz
 	"0014-1437" : "A", // Estudios Biblicos
 	"1689-8311" : "O", // European Journal for Philosophy of Religion
+	"1025-6555, 1814-2036" : "A", // Mitteilungen zur Christlichen Archäologie
+	"2565-7348" : "A", // Tijdschrift voor Theologie
+	"0039-6761" : "A", // Svensk teologisk kvartalskrift
+	"0044-3123" : "A", // Zeitschrift für Missionswissenschaft und Religionswissenschaft
+	"1120267X" : "A", // Teologia, rivista della Facoltà Teologica dell'Italia Settentrionale
 	
 	
 
