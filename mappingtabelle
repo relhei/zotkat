@@ -1,5 +1,6 @@
 
 
+
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -583,6 +584,21 @@ var journalMapping = {
 	"0039-6761" : "!014413094!", // Svensk teologisk kvartalskrift
 	"0044-3123" : "!014852152!", // Zeitschrift für Missionswissenschaft und Religionswissenschaft
 	"1120-267X" : "!015202550!", // Teologia, rivista della Facoltà Teologica dell'Italia Settentrionale
+	"2053-6267" : "!394648986!", // The Huguenot Society Journal
+	"0340-6210" : "!1014414112!", // Luther
+	"0026-587X" : "!015181243!", // Miscellanea Francescana
+	"0340-6407" : "!014895242!", // Oriens Christianus
+	"0030-6487" : "!014838737!", // Ostkirchliche Studien
+	"1529-1634" : "!106362623!", // Philosophia Christi
+	"0033-1767" : "!015182266!", // Protestantesimo
+	"0172-6943" : "!015195635!", // Pietismus und Neuzeit
+	"1127-2171" : "!094950229!", // Studi sull'Oriente Cristiano
+	"1100-2298" : "!015190374!", // Svensk exegetisk årsbok
+	"03449254" : "!014583178!", // Unitas Fratrum
+	"0344-9254" : "!014583178!", // Unitas Fratrum
+	"03933849" : "!014791072!", // Rivista di scienze dell'educazione
+	"0393-3849" : "!014791072!", // Rivista di scienze dell'educazione
+	"1120-8333" : "!490481655!", // Ricerche Teologiche
 	
 	
 };
@@ -737,6 +753,16 @@ var issnLangMapping = {
 	"1889-5662" : "spa", // Facies Domini
 	"0212-1964" : "spa", // Teología y catequesis
 	"1120267X" : "ita", // Teologia, rivista della Facoltà Teologica dell'Italia Settentrionale
+	"0021-2423" : "fre", // Istina
+	"0340-6210" : "ger", // Luther
+	"0026587X" :"ita", // Miscellanea Francescana
+	"0340-6407" : "ger", // Oriens Christianus
+	"0030-6487" : "ger", // Ostkirchliche Studien
+	"0033-1767" : "ita", // Protestantesimo
+	"0172-6943" : "ger", // Pietismus und Neuzeit
+	"1127-2171" : "ita", // Studi sull'Oriente Cristiano
+	"03449254" : "ger", // Unitas Fratrum
+	"1120-8333" : "ita", // Ricerche Teologiche
 
 
 
@@ -1390,11 +1416,21 @@ var issnPhysicalFormMapping = {
 	"0039-6761" : "A", // Svensk teologisk kvartalskrift
 	"0044-3123" : "A", // Zeitschrift für Missionswissenschaft und Religionswissenschaft
 	"1120267X" : "A", // Teologia, rivista della Facoltà Teologica dell'Italia Settentrionale
-	
+	"20536267" : "A", // The Huguenot Society Journal
+	"0340-6210" : "A", // Luther
+	"0026587X" :"A", // Miscellanea Francescana
+	"0340-6407" : "A", // Oriens Christianus
+	"0030-6487" : "A", // Ostkirchliche Studien
+	"1529-1634" : "A", // Philosophia Christi
+	"0033-1767" : "A", // Protestantesimo
+	"0172-6943" : "A", // Pietismus und Neuzeit
+	"1127-2171" : "A", // Studi sull'Oriente Cristiano
+	"1100-2298" : "A", // Svensk exegetisk årsbok
+	"03449254" : "A", // Unitas Fratrum
+	"03933849" : "A", // Rivista di scienze dell'educazione
+	"1120-8333" : "A", // Ricerche Teologiche
 	
 
-
-	
 	
 };
 
