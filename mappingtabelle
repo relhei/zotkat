@@ -165,8 +165,9 @@ var journalMapping = {
 	"0809-7291" : "!477911633!", // Nordic journal of religion and society 
 	"0802-0167" : "!477911633!", // Nordic journal of religion and society
 	"1890-7008" : "!477911633!", // Nordic journal of religion and society 
-	"1069-4404" : "!034203478!", // Sociology of religion
-	"1759-8818" : "!034203478!", // Sociology of religion
+	"1069-4404" : "!263021270!", // Sociology of religion
+	"1069-4404, 1759-8818" : "!263021270!", // Sociology of religion
+	"1759-8818" : "!263021270!", // Sociology of religion
 	"0141-6200" : "!015208621!", // British journal of religious education
 	"2169-2327, 2169-2335" : "!381569306!", // International journal of philosophy and theology
 	"2169-2327" : "!381569306!", // International journal of philosophy and theology
@@ -510,8 +511,6 @@ var journalMapping = {
 	"0081-6175" : "!014421143!", // Studi e materiali di storia delle religioni
 	"0393-8417" : "!014421143!", // Studi e materiali di storia delle religioni
 	"0036-1690" : "!014421143!", // Studi e materiali di storia delle religioni
-	"1069-4404" : "!263021270!", // Sociology of religion
-	"1759-8818" : "!263021270!", // Sociology of religion
 	"1553-3913" : "!015906353!", // Journal of feminist studies in religion
 	"8755-4178" : "!015906353!", // Journal of feminist studies in religion
 	"1050-8619" : "!025188534!", // The International Journal for the Psychology of Religion
@@ -931,8 +930,8 @@ var issnPhysicalFormMapping = {
 	"0809-7291" : "A", // Nordic journal of religion and society 
 	"0802-0167" : "A", // Nordic journal of religion and society
 	"1890-7008" : "O", // Nordic journal of religion and society 
-	"1069-4404" : "A", // Sociology of religion
-	"1759-8818" : "A", // Sociology of religion
+	"1069-4404" : "O", // Sociology of religion
+	"1759-8818" : "O", // Sociology of religion
 	"0141-6200" : "A", // British journal of religious education
 	"2169-2327" : "A", // International journal of philosophy and theology
 	"2169-2335" : "A", // International journal of philosophy and theology
@@ -1557,8 +1556,8 @@ var issnSsgMapping = {
 	"0809-7291" : "0; 1", // Nordic journal of religion and society 
 	"0802-0167" : "0; 1", // Nordic journal of religion and society
 	"1890-7008" : "0; 1", // Nordic journal of religion and society 
-	"1069-4404" : "0", // Sociology of religion
-	"1759-8818" : "0", // Sociology of religion
+	"1069-4404" : "0; 1", // Sociology of religion
+	"1759-8818" : "0; 1", // Sociology of religion
 	"0029-5973" : "0", // Numen PISSN
 	"1568-5276" : "0", // Numen EISSN
 	"0935-7335" : "0; 1", // Ethik in der Medizin 
