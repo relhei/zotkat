@@ -451,6 +451,7 @@ var journalMapping = {
 	"1572-8447" : "!104558555!", // Ethical theory and moral practice
 	"1386-2820" : "!104558555!", // Ethical theory and moral practice
 	"00312789" : "!121191761!", // Pastoral psychology
+	"0031-2789, 1573-6679" : "!121191761!", // Pastoral psychology
 	"1573-6679" : "!121191761!", // Pastoral psychology
 	"0031-2789" : "!121191761!", // Pastoral psychology
 	"0038-1527, 1873-930X" : "!271774215!", // Sophia
@@ -1047,8 +1048,9 @@ var issnPhysicalFormMapping = {
 	"1573-322X" : "A", // Journal of agricultural and environmental ethics !!eppn
 	"1468-2265" : "A", // Heythrop journal !!eppn
 	"1468-0025" : "O", // Modern theology !!eppn
-	"0031-2789" : "A", // Pastoral psychology !!pppn
-	"1573-6679" : "A", // Pastoral psychology !!eppn
+	"0031-2789" : "O", // Pastoral psychology !!pppn
+	"1573-6679" : "O", // Pastoral psychology !!eppn
+	"0031-2789, 1573-6679" : "O", // Pastoral psychology
 	"1364-436X" : "A", // International journal of children's spirituality !!pppn
 	"0959-6410" : "O", // Islam and Christian-Muslim relations !!pppn
 	"1203-1542" : "A", // The journal of Hebrew scriptures !!eppn
