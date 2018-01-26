@@ -1,6 +1,5 @@
 
 
-
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -34,7 +33,8 @@ var journalMapping = {
 	"1752-0738" : "!061284815!", // Reformation  
 	"1462-317X" : "!098784013!", // Political theology   
 	"1743-1719" : "!098784013!", // Political theology   
-	"0360-6503" : "!015202178!", // Process studies   
+	"0360-6503" : "!015202178!", // Process studies  
+	"03606503" : "!015202178!", // Process studies  
 	"0733-4273" : "!015054578!", // Journal of psychology and Christianity
 	"07334273" : "!015054578!", // Journal of psychology and Christianity
 	"0929-0761" : "!041601858!", // Dead Sea discoveries   
@@ -602,6 +602,8 @@ var journalMapping = {
 	"0049-3449" : "!015202569!", // Teologia y vida
 	"0049-3449,  0717-6295" : "!015202569!", // Teologia y vida
 	"1550-4891" : "!260776262!", // Cultural encounters
+	"0008-7912" : "!014775395!", // The catholic biblical quarterly !!pppn
+	"00087912" : "!014775395!", // The catholic biblical quarterly !!pppn
 	
 };
 
@@ -809,7 +811,8 @@ var issnPhysicalFormMapping = {
 	"1752-0738" : "A", // Reformation  
 	"1462-317X" : "A", // Political theology   
 	"1743-1719" : "A", // Political theology   
-	"0360-6503" : "A", // Process studies   
+	"0360-6503" : "A", // Process studies  
+	"03606503" :"A", // Process studies	
 	"0733-4273" : "A", // Journal of psychology and Christianity
 	"07334273" : "A", // Journal of psychology and Christianity
 	"0929-0761" : "A", // Dead Sea discoveries   
@@ -1089,6 +1092,7 @@ var issnPhysicalFormMapping = {
 	"0006-0895" : "A", // The Biblical archeologist !!pppn
 	"1094-2076" : "O", // Near Eastern archaeology !!pppn
 	"0008-7912" : "A", // The catholic biblical quarterly !!pppn
+	"00087912" : "A", // The catholic biblical quarterly !!pppn
 	"0009-5281" : "A", // The Christian century !!pppn
 	"0009-5281" : "A", // The Christian century !!eppn
 	"0009-5753" : "A", // Christianity today !!pppn
@@ -1698,6 +1702,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
 
