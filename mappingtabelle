@@ -1,5 +1,6 @@
 
 
+
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -486,7 +487,7 @@ var journalMapping = {
 	"0210-2900" : "!026379554!", // Mayéutica
 	"0030-252X" : "!015178552!", // One in Christ
 	"1783-1652" : "!015181561!", // Ons Geestelijk Erf
-	"0034-1258" : "!01485712X!", // Recherches de science religieuse 
+	"0034-1258" : "!305355643!", // Recherches de science religieuse 
 	"2055-7973, 2055-7981" : "!428283136!", // British Catholic History
 	"2055-7973" : "!428283136!", // British Catholic History
 	"2055-7981" : "!428283136!", // British Catholic History
@@ -1336,7 +1337,7 @@ var issnPhysicalFormMapping = {
 	"0210-2900" : "A", // Mayéutica
 	"0030-252X" : "A", // One in Christ
 	"1783-1652" : "A", // Ons Geestelijk Erf
-	"0034-1258" : "A", // Recherches de science religieuse
+	"0034-1258" : "O", // Recherches de science religieuse
 	"2055-7973, 2055-7981" : "O", // British Catholic 
 	"1467-9647" : "O", // Teaching theology & religion
 	"1768-9260" : "A", // Revue d'Etudes Augustiniennes et Patristiques
@@ -1494,6 +1495,7 @@ var issnLicenceFieldMapping = {
 	"2176-1078" : "l", // Estudos de religião
 	"1689-8311" : "kw", // European Journal for Philosophy of Religion
 	"0049-3449" : "l", // Teologia y vida
+	"0034-1258" : "l", // Recherches de science religieuse
 	
 
 	
@@ -1702,5 +1704,6 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
 
