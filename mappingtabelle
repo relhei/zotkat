@@ -1,6 +1,5 @@
 
 
-
 var journalMapping = {
 	"0021-9231" : "!014411350!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -231,7 +230,6 @@ var journalMapping = {
 	"0094-2065" : "!015196542!", // Communio
 	"0573-2018" : "!018207030!", // Compostellanum
 	"0145-7233" : "!015208451!", // Concordia journal !!pppn
-	"0145-7233" : "!325341397!", // Concordia journal !!eppn
 	"0210-3133" : "!016056574!", // Escritos del vedat
 	"0425-340X" : "!015193012!", // Estudio agustiniano
 	"0210-0525" : "!015186695!", // Estudios
@@ -1495,7 +1493,7 @@ var issnLicenceFieldMapping = {
 	"2176-1078" : "l", // Estudos de religião
 	"1689-8311" : "kw", // European Journal for Philosophy of Religion
 	"0049-3449" : "l", // Teologia y vida
-	
+
 	
 
 	
@@ -1705,6 +1703,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
 
