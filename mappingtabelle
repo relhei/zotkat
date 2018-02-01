@@ -228,8 +228,7 @@ var journalMapping = {
 	"0210-0525" : "!015186695!", // Estudios
 	"0210-4393" : "!01517879X!", // Estudios franciscanos
 	"0071-2086" : "!015178803!", // Études grégoriennes
-	"0883-0053" : "!016231430!", // Ex auditu !!pppn
-	"0883-0053" : "!32534129X!", // Ex auditu !!eppn
+	"0883-0053" : "!32534129X!", // Ex auditu
 	"0019-4530" : "!015184552!", // Indian church history review
 	"1071-8257" : "!065483030!", // Josephinum journal of theology
 	"2244-5161" : "!01544242X!", // Landas
@@ -239,16 +238,15 @@ var journalMapping = {
 	"0544-9073" : "!015178714!", // Monte Carmelo
 	"0470-3790" : "!015189813!", // Naturaleza y gracia
 	"1451-3455" : "!111315980!", // Philotheos
-	"0193-6212" : "!015195686!", // Presbyterion !!pppn
-	"0193-6212" : "!325341338!", // Presbyterion !!eppn
+	"0193-6212" : "!015195686!", // Presbyterion
 	"0043-2873" : "!015182355!", // Proceedings of the Wesley Historical Society
 	"0034-7078" : "!015182835!", // Revista bíblica
 	"0036-4703" : "!015213676!", // Sapientia
 	"1885-0588" : "!094451443!", // Selecciones de Franciscanismo
 	"0210-5225" : "!015242285!", // Sinite
 	"0144-8722" : "!015194868!", // Sobornost
-	"1017-0499" : "!348457146!", // Studia historiae ecclesiasticae !!pppn
-	"1017-0499" : "!454502966!", // Studia historiae ecclesiasticae !!eppn
+	"1017-0499" : "!454502966!", // Studia historiae ecclesiasticae
+	"2412-4265" : "!454502966!", // Studia historiae ecclesiasticae
 	"2001-5828" : "!39804984X!", // Svenskt gudstjänstliv !!eppn
 	"0251-4788" : "!018289851!", // Taiwan Journal of Theology
 	"0495-1549" : "!015193764!", // Teología espiritual
@@ -279,11 +277,10 @@ var journalMapping = {
 	"1468-2400" : "!094641951!", // International journal of systematic theology !!eppn
 	"1463-1652" : "!094641951!", // International journal of systematic theology
 	"14631652" : "!094641951!", // International journal of systematic theology
-	"0361-0160" : "!014787814!", // The Sixteenth Century Journal !!pppn
-	"03610160" : "!014787814!", // The Sixteenth Century Journal !!pppn
-	"03610160" : "!103189548!", // The Sixteenth Century Journal !!eppn
-	"0014-2239" : "!01496967X!", // Etudes théologiques et religieuses !!pppn
-	"2272-9011" : "!01496967X!", // Etudes théologiques et religieuses !!eppn
+	"0361-0160" : "!014787814!", // The Sixteenth Century Journal
+	"03610160" : "!014787814!", // The Sixteenth Century Journal
+	"0014-2239" : "!01496967X!", // Etudes théologiques et religieuses
+	"2272-9011" : "!01496967X!", // Etudes théologiques et religieuses
 	"0038-8610" : "!015205207!", // Concordia Theological Quarterly
 	"0047-2867" : "!015194620!", // Journal of Theology for Southern Africa
 	"0342-0914" : "!014414104!", // Lutherjahrbuch
@@ -292,7 +289,7 @@ var journalMapping = {
 	"21994463, 21994471" : "!416962777!", // Religion in the Roman Empire
 	"0148-3331" : "!273874853!", // Christianity & literature !! eppn
 	"2056-5666" : "!273874853!", // Christianity & literature !! pppn
-	"1868-8020" : "!323851452!", // Early Christianity
+	"1868-8020" : "!325341478!", // Early Christianity
 	"1868-7032" : "!325341478!", // Early Christianity 
 	"0040-5698" : "!279448899!", // Theologische Rundschau
 	"0044-3549" : "!252209540!", // Zeitschrift für Theologie und Kirche
@@ -305,8 +302,8 @@ var journalMapping = {
 	"0020-7047" : "!103746927!", // International Journal for Philosophy of Religion
 	"1572-8684" : "!103746927!", // International Journal for Philosophy of Religion
 	"2396-9393" : "!266225314!", // International bulletin of mission research
-	"2396-9407" : "!01523083X!", // International bulletin of mission research
-	"2396-9393, 2396-9407" : "!01523083X!", // International bulletin of mission research
+	"2396-9407" : "!266225314!", // International bulletin of mission research
+	"2396-9393, 2396-9407" : "!266225314!", // International bulletin of mission research
 	"0265-3788" : "!273886452!", // Transformation
 	"0014-5246" : "!119460661!", // The Expository times
 	"1745-5308" : "!119460661!", // The Expository times
@@ -996,8 +993,7 @@ var issnPhysicalFormMapping = {
 	"0210-0525" : "A", // Estudios
 	"0210-4393" : "A", // Estudios franciscanos
 	"0071-2086" : "A", // Études grégoriennes
-	"0883-0053" : "A", // Ex auditu !!pppn
-	"0883-0053" : "A", // Ex auditu !!eppn
+	"0883-0053" : "O", // Ex auditu
 	"0019-4530" : "A", // Indian church history review
 	"1071-8257" : "A", // Josephinum journal of theology
 	"2244-5161" : "A", // Landas
@@ -1007,16 +1003,15 @@ var issnPhysicalFormMapping = {
 	"0544-9073" : "A", // Monte Carmelo
 	"0470-3790" : "A", // Naturaleza y gracia
 	"1451-3455" : "A", // Philotheos
-	"0193-6212" : "A", // Presbyterion !!pppn
-	"0193-6212" : "A", // Presbyterion !!eppn
+	"0193-6212" : "A", // Presbyterion
 	"0043-2873" : "A", // Proceedings of the Wesley Historical Society
 	"0034-7078" : "A", // Revista bíblica
 	"0036-4703" : "A", // Sapientia
 	"1885-0588" : "A", // Selecciones de Franciscanismo
 	"0210-5225" : "A", // Sinite
 	"0144-8722" : "A", // Sobornost
-	"1017-0499" : "A", // Studia historiae ecclesiasticae !!pppn
-	"1017-0499" : "A", // Studia historiae ecclesiasticae !!eppn
+	"1017-0499" : "O", // Studia historiae ecclesiasticae
+	"2412-4265" : "O", // Studia historiae ecclesiasticae
 	"2001-5828" : "A", // Svenskt gudstjänstliv !!eppn
 	"0251-4788" : "A", // Taiwan Journal of Theology
 	"0495-1549" : "A", // Teología espiritual
@@ -1074,7 +1069,6 @@ var issnPhysicalFormMapping = {
 	"0017-8160" : "A", // The Harvard theological review !!pppn
 	"1475-4517" : "A", // The Harvard theological review !!eppn
 	"1535-3117" : "A", // Spiritus !!eppn
-	"0361-0160" : "A", // The sixteenth century journal !!pppn
 	"0034-4087" : "A", // Religious education !!pppn
 	"0002-7049" : "A", // America !!pppn
 	"0003-0279" : "A", // Journal of the American Oriental Society !!pppn
