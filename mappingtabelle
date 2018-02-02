@@ -594,6 +594,7 @@ var journalMapping = {
 	"0008-7912" : "!014775395!", // The catholic biblical quarterly !!pppn
 	"00087912" : "!014775395!", // The catholic biblical quarterly !!pppn
 	"2295-3027" : "!015198510!", // Studia Canonica
+	"0035-2403" : "!014915391!", // Revue d'histoire et de philosophie religieuses
 	
 };
 
@@ -619,6 +620,7 @@ var languageMapping = {
 	"es" : "spa",
 	"it" : "ita",
 	"en-US" : "eng",
+	"en_US" : "eng",
 };
 
 var issnLangMapping = {
@@ -758,6 +760,7 @@ var issnLangMapping = {
 	"03449254" : "ger", // Unitas Fratrum
 	"1120-8333" : "ita", // Ricerche Teologiche
 	"0049-3449" : "spa", // Teologia y vida
+	"0035-2403" : "fre", // Revue d'histoire et de philosophie religieuses
 
 
 
@@ -1424,6 +1427,7 @@ var issnPhysicalFormMapping = {
 	"0049-3449,  0717-6295" : "A", // Teologia y vida
 	"1550-4891" : "A", // Cultural encounters
 	"2295-3027" : "A", // Studia Canonica
+	"0035-2403" : "A", // Revue d'histoire et de philosophie religieuses
 	
 
 	
