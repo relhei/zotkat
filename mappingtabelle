@@ -597,6 +597,7 @@ var journalMapping = {
 	"0035-2403" : "!014915391!", // Revue d'histoire et de philosophie religieuses
 	"1359-1835" : "!079877222!", // Journal of material culture
 	"1460-3586" : "!079877222!", // Journal of material culture
+	"0272-6122" : "!266225314!", // International Bulletin of Missionary Research
 
 	
 };
@@ -1436,6 +1437,7 @@ var issnPhysicalFormMapping = {
 	"0035-2403" : "A", // Revue d'histoire et de philosophie religieuses
 	"1359-1835" : "O", // Journal of material culture
 	"1460-3586" : "O", // Journal of material culture
+	"0272-6122" : "A", // International Bulletin of Missionary Research
 
 	
 
@@ -1684,7 +1686,7 @@ var issnSsgMapping = {
 	"00207047" : "0; 1", // International Journal for Philosophy of Religion
 	"1359-1835" : "0", // Journal of material culture
 	"1460-3586" : "0", // Journal of material culture
-
+	
 	
 	
 
@@ -1706,6 +1708,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
 
