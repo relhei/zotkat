@@ -598,6 +598,7 @@ var journalMapping = {
 	"1359-1835" : "!079877222!", // Journal of material culture
 	"1460-3586" : "!079877222!", // Journal of material culture
 	"0272-6122" : "!266225314!", // International Bulletin of Missionary Research
+	"0458-063X" : "!016223624!", // Liturgy
 
 	
 };
@@ -1438,6 +1439,7 @@ var issnPhysicalFormMapping = {
 	"1359-1835" : "O", // Journal of material culture
 	"1460-3586" : "O", // Journal of material culture
 	"0272-6122" : "A", // International Bulletin of Missionary Research
+	"0458-063X" : "A", // Liturgy
 
 	
 
