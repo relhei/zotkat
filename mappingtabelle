@@ -595,6 +595,9 @@ var journalMapping = {
 	"00087912" : "!014775395!", // The catholic biblical quarterly !!pppn
 	"2295-3027" : "!015198510!", // Studia Canonica
 	"0035-2403" : "!014915391!", // Revue d'histoire et de philosophie religieuses
+	"1359-1835" : "!079877222!", // Journal of material culture
+	"1460-3586" : "!079877222!", // Journal of material culture
+
 	
 };
 
@@ -761,6 +764,9 @@ var issnLangMapping = {
 	"1120-8333" : "ita", // Ricerche Teologiche
 	"0049-3449" : "spa", // Teologia y vida
 	"0035-2403" : "fre", // Revue d'histoire et de philosophie religieuses
+	"1359-1835" : "eng", // Journal of material culture
+	"1460-3586" : "eng", // Journal of material culture
+
 
 
 
@@ -1428,6 +1434,9 @@ var issnPhysicalFormMapping = {
 	"1550-4891" : "A", // Cultural encounters
 	"2295-3027" : "A", // Studia Canonica
 	"0035-2403" : "A", // Revue d'histoire et de philosophie religieuses
+	"1359-1835" : "O", // Journal of material culture
+	"1460-3586" : "O", // Journal of material culture
+
 	
 
 	
@@ -1673,6 +1682,9 @@ var issnSsgMapping = {
 	"2267-7313" : "0; 1", // Histoire, monde et cultures religieuses
 	"1689-8311" : "0; 1", // European Journal for Philosophy of Religion
 	"00207047" : "0; 1", // International Journal for Philosophy of Religion
+	"1359-1835" : "0", // Journal of material culture
+	"1460-3586" : "0", // Journal of material culture
+
 	
 	
 
@@ -1694,5 +1706,6 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
 
