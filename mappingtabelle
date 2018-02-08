@@ -462,8 +462,8 @@ var journalMapping = {
 	"1075-7201" : "!052644464!", // Contagion
 	"1666-7832" : "!103190163!", // DavarLogos
 	"0210-1610" : "!015178765!", // Estudios eclesiásticos
-	"1945-9718" : "!014421356!", // Franciscan Studies
-	"0080-5459" : "!014421356!", // Franciscan Studies
+	"1945-9718" : "!307016250!", // Franciscan Studies
+	"0080-5459" : "!307016250!", // Franciscan Studies
 	"0018-215X" : "!014950790!", // Hispania Sacra
 	"2267-7313" : "!398332924!", // Histoire, monde et cultures religieuses
 	"0360-9669, 2050-8557" : "!014815435!", // Horizons
@@ -1322,8 +1322,8 @@ var issnPhysicalFormMapping = {
 	"1075-7201" : "A", // Contagion
 	"1666-7832" : "A", // DavarLogos
 	"0210-1610" : "A", // Estudios eclesiásticos
-	"1945-9718" : "A", // Franciscan Studies
-	"0080-5459" : "A", // Franciscan Studies
+	"1945-9718" : "O", // Franciscan Studies
+	"0080-5459" : "O", // Franciscan Studies
 	"0018-215X" : "A", // Hispania Sacra
 	"2267-7313" : "A", // Histoire, monde et cultures religieuses
 	"0360-9669, 2050-8557" : "A", // Horizons
