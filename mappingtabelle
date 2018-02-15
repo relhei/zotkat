@@ -1,5 +1,4 @@
 
-
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -600,7 +599,13 @@ var journalMapping = {
 	"0272-6122" : "!266225314!", // International Bulletin of Missionary Research
 	"0458-063X" : "!016223624!", // Liturgy
 	"0041-2945" : "!014822245!", // Trierer Theologische Zeitschrift
-
+	"1749-4907, 1749-4915" : "!274589745!", // Journal for the Study of Religion, Nature and Culture
+	"1749-4907" : "!274589745!", // Journal for the Study of Religion, Nature and Culture
+	"1749-4915" : "!274589745!", // Journal for the Study of Religion, Nature and Culture
+	"17494907" : "!274589745!", // Journal for the Study of Religion, Nature and Culture
+	"1534-8423" : "!117513679!", // Journal of Media and Religion
+	"1888-346X" : "!47709774X!", // Bandue: revista de la Sociedad Española de Ciencias de las Religiones
+	"1355-8358" : "!043086950!", // Theology & sexuality
 
 	
 };
@@ -1443,6 +1448,11 @@ var issnPhysicalFormMapping = {
 	"0272-6122" : "A", // International Bulletin of Missionary Research
 	"0458-063X" : "A", // Liturgy
 	"0041-2945" : "A", // Trierer Theologische Zeitschrift
+	"1749-4907, 1749-4915" : "O", // Journal for the Study of Religion, Nature and Culture
+	"17494907" : "O", // Journal for the Study of Religion, Nature and Culture
+	"1534-8423" : "O", // Journal of Media and Religion
+	"1888-346X" : "O", // Bandue: revista de la Sociedad Española de Ciencias de las Religiones
+
 
 	
 
@@ -1691,7 +1701,12 @@ var issnSsgMapping = {
 	"00207047" : "0; 1", // International Journal for Philosophy of Religion
 	"1359-1835" : "0", // Journal of material culture
 	"1460-3586" : "0", // Journal of material culture
-	
+	"1534-8423" : "0; 1", // Journal of Media and Religion
+	"1888-346X" : "0", // Bandue: revista de la Sociedad Española de Ciencias de las Religiones
+	"1749-4907, 1749-4915" : "0", // Journal for the Study of Religion, Nature and Culture
+	"1749-4907" : "0", // Journal for the Study of Religion, Nature and Culture
+	"1749-4915" : "0", // Journal for the Study of Religion, Nature and Culture
+	"17494907" : "0", // Journal for the Study of Religion, Nature and Culture
 	
 	
 
