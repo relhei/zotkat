@@ -1,4 +1,5 @@
 
+
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -606,6 +607,18 @@ var journalMapping = {
 	"1534-8423" : "!117513679!", // Journal of Media and Religion
 	"1888-346X" : "!47709774X!", // Bandue: revista de la Sociedad Española de Ciencias de las Religiones
 	"1355-8358" : "!043086950!", // Theology & sexuality
+	"2035-6455" : "!477589960!", // Historia Religionum
+	"1743-2200" : "!273875507!", // Material Religion : The Journal of Objects, Art and Belief 
+	"2049-7555, 2049-7563" : "!360555888!" , // Journal for the Cognitive Science of Religion
+	"2049-7555" : "!360555888!", // Journal for the Cognitive Science of Religion
+	"2049-7563" : "!360555888!", // Journal for the Cognitive Science of Religion
+	"21568022" : "!354897241!", // Mormon studies Review
+	"2156-8022" : "!354897241!", // Mormon studies Review
+	"2041-1863, 2041-1871" :"!329536249!", // Bulletin for the Study of Religion
+	"2041-1863" : "!329536249!", // Bulletin for the Study of Religion
+	"2041-1871" : "!329536249!", // Bulletin for the Study of Religion
+	"0963-7494" : "!097188581!", // Religion, State and Society
+	
 
 	
 };
@@ -775,6 +788,7 @@ var issnLangMapping = {
 	"0035-2403" : "fre", // Revue d'histoire et de philosophie religieuses
 	"1359-1835" : "eng", // Journal of material culture
 	"1460-3586" : "eng", // Journal of material culture
+	
 
 
 
@@ -1452,6 +1466,16 @@ var issnPhysicalFormMapping = {
 	"17494907" : "O", // Journal for the Study of Religion, Nature and Culture
 	"1534-8423" : "O", // Journal of Media and Religion
 	"1888-346X" : "O", // Bandue: revista de la Sociedad Española de Ciencias de las Religiones
+	"2035-6455" : "O", // Historia Religionum
+	"1743-2200" : "O", // Material Religion : The Journal of Objects, Art and Belief 
+	"2049-7555, 2049-7563" : "A" , // Journal for the Cognitive Science of Religion
+	"2049-7555" : "A" , // Journal for the Cognitive Science of Religion
+	"2049-7563" : "A" , // Journal for the Cognitive Science of Religion
+	"21568022" : "A", // Mormon studies Review
+	"2041-1863, 2041-1871" :"O", // Bulletin for the Study of Religion
+	"2041-1863" : "O", // Bulletin for the Study of Religion
+	"2041-1871" : "O", // Bulletin for the Study of Religion
+	"0963-7494" : "O", // Religion, State and Society
 
 
 	
@@ -1707,7 +1731,16 @@ var issnSsgMapping = {
 	"1749-4907" : "0", // Journal for the Study of Religion, Nature and Culture
 	"1749-4915" : "0", // Journal for the Study of Religion, Nature and Culture
 	"17494907" : "0", // Journal for the Study of Religion, Nature and Culture
-	
+	"2035-6455" : "0", // Historia Religionum
+	"1743-2200" : "0", // Material Religion : The Journal of Objects, Art and Belief 
+	"2049-7555, 2049-7563" : "0" , // Journal for the Cognitive Science of Religion
+	"2049-7555" : "0" , // Journal for the Cognitive Science of Religion
+	"2049-7563" : "0" , // Journal for the Cognitive Science of Religion
+	"21568022" : "0", // Mormon studies Review
+	"2041-1863, 2041-1871" :"0", // Bulletin for the Study of Religion
+	"2041-1863" : "0", // Bulletin for the Study of Religion
+	"2041-1871" : "0", // Bulletin for the Study of Religion
+	"0963-7494" : "0", // Religion, State and Society
 	
 
 	
