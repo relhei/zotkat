@@ -618,7 +618,10 @@ var journalMapping = {
 	"2041-1863" : "!329536249!", // Bulletin for the Study of Religion
 	"2041-1871" : "!329536249!", // Bulletin for the Study of Religion
 	"0963-7494" : "!097188581!", // Religion, State and Society
-	
+	"0210-0851" : "!015213048!", // Moralia: revista de ciencias morales
+	"0003-3286" : "!273867393!", // Anglican Theological Review
+	"00033286" : "!273867393!", // Anglican Theological Review
+	"0727-3215" : "!478317891!", // Austalasian Catholic Record
 
 	
 };
@@ -646,6 +649,7 @@ var languageMapping = {
 	"it" : "ita",
 	"en-US" : "eng",
 	"en_US" : "eng",
+	"EN" : "eng",
 };
 
 var issnLangMapping = {
@@ -1104,10 +1108,9 @@ var issnPhysicalFormMapping = {
 	"0034-4087" : "A", // Religious education !!pppn
 	"0002-7049" : "A", // America !!pppn
 	"0003-0279" : "A", // Journal of the American Oriental Society !!pppn
-	"0003-3286" : "A", // Anglican theological review !!pppn
-	"0003-3286" : "A", // Anglican theological review !!eppn
+	"00033286" : "O", // Anglican theological review !!eppp
 	"0006-0895" : "A", // The Biblical archeologist !!pppn
-	"1094-2076" : "O", // Near Eastern archaeology !!pppn
+	"1094-2076" : "O", // Near Eastern archaeology  !!pppn
 	"0008-7912" : "A", // The catholic biblical quarterly !!pppn
 	"00087912" : "A", // The catholic biblical quarterly !!pppn
 	"0009-5281" : "A", // The Christian century !!pppn
@@ -1476,7 +1479,8 @@ var issnPhysicalFormMapping = {
 	"2041-1863" : "O", // Bulletin for the Study of Religion
 	"2041-1871" : "O", // Bulletin for the Study of Religion
 	"0963-7494" : "O", // Religion, State and Society
-
+	"0210-0851" : "A", // Moralia: revista de ciencias morales
+	"0727-3215" : "O", // Austalasian Catholic Record
 
 	
 
