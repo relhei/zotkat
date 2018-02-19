@@ -622,7 +622,9 @@ var journalMapping = {
 	"0003-3286" : "!273867393!", // Anglican Theological Review
 	"00033286" : "!273867393!", // Anglican Theological Review
 	"0727-3215" : "!478317891!", // Austalasian Catholic Record
-
+	"0094-7342" : "!382626893!", // Journal of the Mormon History
+	"00339644" : "!015185109!", // Rassegna di Teologia
+	"0033-9644" : "!015185109!", // Rassegna di Teologia
 	
 };
 
@@ -1481,6 +1483,8 @@ var issnPhysicalFormMapping = {
 	"0963-7494" : "O", // Religion, State and Society
 	"0210-0851" : "A", // Moralia: revista de ciencias morales
 	"0727-3215" : "O", // Austalasian Catholic Record
+	"0094-7342" : "O", // Journal of the Mormon History
+	"00339644" : "A", // Rassegna di Teologia
 
 	
 
@@ -1745,6 +1749,7 @@ var issnSsgMapping = {
 	"2041-1863" : "0", // Bulletin for the Study of Religion
 	"2041-1871" : "0", // Bulletin for the Study of Religion
 	"0963-7494" : "0", // Religion, State and Society
+	"0094-7342" : "0", // Journal of the Mormon History
 	
 
 	
@@ -1765,5 +1770,4 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
