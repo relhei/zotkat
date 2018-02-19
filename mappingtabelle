@@ -178,7 +178,7 @@ var journalMapping = {
 	"1568-5276" : "!014497301!", // Numen EISSN
 	"2033-4273" : "!379731398!", // ET-Studies Online Publikation 
 	"2032-5215" : "!379731398!", // ET-Studies Online Publikation
-	"1783-1431" : "!040105555!", // Ethical Perspectives
+	"1783-1431" : "!112891179!", // Ethical Perspectives
 	"0266-7177" : "!096290587!", // Modern theology Print-PPN  PISSN
 	"1468-0025" : "!096290587!", // Modern theology Print-PPN  EISSN
 	"0009-661X" : "!015191273!", // Churchman
@@ -328,7 +328,7 @@ var journalMapping = {
     "2342-7256" : "!42401257X!", // Temenos : nordic journal of comparative religion
     "1799-3121" : "!367402394!", // Approaching religion    
     "1677-1222" : "!281208956!", // Rever : revista de estudos da religião
-	"1475-5610" : "!094641897!", // Culture and Religion
+	"1475-5610" : "!113422903!", // Culture and Religion
 	"00224189" : "!113710593!", // Journal of Religion
 	"1549-6538" : "!113710593!", // Journal of Religion
 	"0022-4189" : "!113710593!", // Journal of Religion
@@ -460,7 +460,7 @@ var journalMapping = {
 	"0010-3497" : "!014963337!", // Communicatio Socialis
 	"1930-1200" : "!052644464!", // Contagion
 	"1075-7201" : "!052644464!", // Contagion
-	"1666-7832" : "!103190163!", // DavarLogos
+	"1666-7832" : "!325005931!", // DavarLogos
 	"0210-1610" : "!015178765!", // Estudios eclesiásticos
 	"1945-9718" : "!307016250!", // Franciscan Studies
 	"0080-5459" : "!307016250!", // Franciscan Studies
@@ -486,7 +486,7 @@ var journalMapping = {
 	"0316-5345" : "!015183734!", // Science et Esprit
 	"1097-6566" : "!112178723!", // Stone-Campbell journal
 	"2295-3019" : "!015198510!", // Studia Canonica
-	"0039-6761" : "!014413094!", // Swedish Theological Quarterly
+	"0039-6761" : "!39804595X!", // Swedish Theological Quarterly
 	"2295-5186" : "!091176336!", // Theoforum
 	"1495-7922" : "!091176336!", // Theoforum
 	"0169-7536" : "!016204123!", // Zeitschrift für Dialektische Theologie
@@ -569,8 +569,8 @@ var journalMapping = {
 	"1025-6555, 1814-2036" : "!055361250!", // Mitteilungen zur Christlichen Archäologie
 	"1025-6555" : "!055361250!", // Mitteilungen zur Christlichen Archäologie
 	"1814-2036" : "!055361250!", // Mitteilungen zur Christlichen Archäologie
-	"2565-7348" : "!014904519!", // Tijdschrift voor Theologie
-	"0039-6761" : "!014413094!", // Svensk teologisk kvartalskrift
+	"2565-7348" : "!333370279!", // Tijdschrift voor Theologie
+	"0039-6761" : "!39804595X!", // Svensk teologisk kvartalskrift
 	"0044-3123" : "!014852152!", // Zeitschrift für Missionswissenschaft und Religionswissenschaft
 	"1120-267X" : "!015202550!", // Teologia, rivista della Facoltà Teologica dell'Italia Settentrionale
 	"2053-6267" : "!394648986!", // The Huguenot Society Journal
@@ -625,6 +625,10 @@ var journalMapping = {
 	"0094-7342" : "!382626893!", // Journal of the Mormon History
 	"00339644" : "!015185109!", // Rassegna di Teologia
 	"0033-9644" : "!015185109!", // Rassegna di Teologia
+	"00122157" : "!258762179!", // Dialogue: A Journal of Mormon Thought
+	"0012-2157" : "!258762179!", // Dialogue: A Journal of Mormon Thought
+	"0392-7288" : "!015202879!", // Islamochristiana
+	"0304-1042" : "!281243603!", // Japanese Journal of Religious Studies
 	
 };
 
@@ -980,7 +984,7 @@ var issnPhysicalFormMapping = {
 	"1026-2946" : "A", // Africa Journal of Evangelical Theology
 	"0029-5973" : "A", // Numen PISSN
 	"1568-5276" : "A", // Numen EISSN
-	"1783-1431" : "A", // Ethical Perspectives
+	"1783-1431" : "O", // Ethical Perspectives
 	"0266-7177" : "O", // Modern theology Print-PPN  PISSN
 	"1468-0025" : "O", // Modern theology Print-PPN  EISSN
 	"0009-661X" : "A", // Churchman
@@ -1242,7 +1246,7 @@ var issnPhysicalFormMapping = {
     "2342-7256" : "O", // Temenos : nordic journal of comparative religion
     "1799-3121" : "O", // Approaching religion
     "1677-1222" : "O", // Rever : revista de estudos da religião
-	"1475-5610" : "A", // Culture and Religion
+	"1475-5610" : "O", // Culture and Religion
 	"00224189" : "O", // Journal of Religion
 	"1549-6538" : "O", // Journal of Religion
 	"0022-4189" : "O", // Journal of Religion
@@ -1346,7 +1350,7 @@ var issnPhysicalFormMapping = {
 	"0010-3497" : "A", // Communicatio Socialis
 	"1930-1200" : "A", // Contagion
 	"1075-7201" : "A", // Contagion
-	"1666-7832" : "A", // DavarLogos
+	"1666-7832" : "O", // DavarLogos
 	"0210-1610" : "A", // Estudios eclesiásticos
 	"1945-9718" : "O", // Franciscan Studies
 	"0080-5459" : "O", // Franciscan Studies
@@ -1366,7 +1370,7 @@ var issnPhysicalFormMapping = {
 	"0316-5345" : "A", // Science et Esprit
 	"1097-6566" : "A", // Stone-Campbell journal
 	"2295-3019" : "A", // Studia Canonica
-	"0039-6761" : "A", // Swedish Theological Quarterly
+	"0039-6761" : "O", // Swedish Theological Quarterly
 	"2295-5186" : "A", // Theoforum
 	"1495-7922" : "A", // Theoforum
 	"0169-7536" : "A", // Zeitschrift für Dialektische Theologie
@@ -1440,8 +1444,8 @@ var issnPhysicalFormMapping = {
 	"0014-1437" : "A", // Estudios Biblicos
 	"1689-8311" : "O", // European Journal for Philosophy of Religion
 	"1025-6555, 1814-2036" : "A", // Mitteilungen zur Christlichen Archäologie
-	"2565-7348" : "A", // Tijdschrift voor Theologie
-	"0039-6761" : "A", // Svensk teologisk kvartalskrift
+	"2565-7348" : "O", // Tijdschrift voor Theologie
+	"0039-6761" : "O", // Svensk teologisk kvartalskrift
 	"0044-3123" : "A", // Zeitschrift für Missionswissenschaft und Religionswissenschaft
 	"1120267X" : "A", // Teologia, rivista della Facoltà Teologica dell'Italia Settentrionale
 	"20536267" : "A", // The Huguenot Society Journal
@@ -1485,6 +1489,9 @@ var issnPhysicalFormMapping = {
 	"0727-3215" : "O", // Austalasian Catholic Record
 	"0094-7342" : "O", // Journal of the Mormon History
 	"00339644" : "A", // Rassegna di Teologia
+	"00122157" : "O", // Dialogue: A Journal of Mormon Thought
+	"0392-7288" : "A", // Islamochristiana
+	"0304-1042" : "O", // Japanese Journal of Religious Studies
 
 	
 
@@ -1542,6 +1549,7 @@ var issnLicenceFieldMapping = {
 	"2176-1078" : "l", // Estudos de religião
 	"1689-8311" : "kw", // European Journal for Philosophy of Religion
 	"0049-3449" : "l", // Teologia y vida
+	"0304-1042" : "l", // Japanese Journal of Religious Studies
 
 	
 
@@ -1750,6 +1758,9 @@ var issnSsgMapping = {
 	"2041-1871" : "0", // Bulletin for the Study of Religion
 	"0963-7494" : "0", // Religion, State and Society
 	"0094-7342" : "0", // Journal of the Mormon History
+	"00122157" : "0", // Dialogue: A Journal of Mormon Thought
+	"0392-7288" : "0; 1", // Islamochristiana
+	"0304-1042" : "0", // Japanese Journal of Religious Studies
 	
 
 	
@@ -1770,4 +1781,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
