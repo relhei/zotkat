@@ -650,8 +650,11 @@ var journalMapping = {
 	"2374-4774" : "!42466710X!", // Journal of the Book of Mormon Studies
 	"1361-7672" : "!094752656!", // Journal of Beliefs & Values
 	"1353-7903" : "!095237976!", // Journal of Contemporary Religion
-
-	
+	"2154-7270" : "!359478492!", // International Journal of Cultic Studies
+	"1463-9947" : "!265627168!", // Contemporary Buddhism
+	"0718-4727" : "!302633731!", // Revista Cultura & Religión
+	"0012-8708" : "!325341230!", // Eastern Buddhist
+	"00128708" : "!325341230!", // Eastern Buddhist
 	
 };
 
@@ -1537,6 +1540,10 @@ var issnPhysicalFormMapping = {
 	"2374-4774" : "O", // Journal of the Book of Mormon Studies
 	"1361-7672" : "O", // Journal of Beliefs & Values
 	"1353-7903" : "O", // Journal of Contemporary Religion
+	"2154-7270" : "O", // International Journal of Cultic Studies
+	"1463-9947" : "O", // Contemporary Buddhism
+	"0718-4727" : "O", // Revista Cultura & Religión
+	"00128708" : "O", // Eastern Buddhist
 	
 
 	
@@ -1594,6 +1601,7 @@ var issnLicenceFieldMapping = {
 	"1689-8311" : "kw", // European Journal for Philosophy of Religion
 	"0049-3449" : "l", // Teologia y vida
 	"0304-1042" : "l", // Japanese Journal of Religious Studies
+	"0718-4727" : "l", // Revista Cultura & Religión
 
 	
 
@@ -1822,7 +1830,10 @@ var issnSsgMapping = {
 	"2374-4774" : "0", // Journal of the Book of Mormon Studies
 	"1361-7672" : "0", // Journal of Beliefs & Values
 	"1353-7903" : "0", // Journal of Contemporary Religion
-
+	"2154-7270" : "0", // International Journal of Cultic Studies
+	"1463-9947" : "0", // Contemporary Buddhism
+	"0718-4727" : "0", // Revista Cultura & Religión
+	"00128708" : "0", // Eastern Buddhist
 	
 
 	
@@ -1843,5 +1854,6 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
 
