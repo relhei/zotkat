@@ -629,6 +629,29 @@ var journalMapping = {
 	"0012-2157" : "!258762179!", // Dialogue: A Journal of Mormon Thought
 	"0392-7288" : "!015202879!", // Islamochristiana
 	"0304-1042" : "!281243603!", // Japanese Journal of Religious Studies
+	"0014-701X" : "!015239004!", // Faith and freedom
+	"1904-8181" : "!358413109!", // Religionsvidenskabeligt Tidsskrift
+	"23258780" : "!371984971!", // journal for spiritual and consciousness studies
+	"2325-8780" : "!371984971!", // journal for spiritual and consciousness studies
+	"1527-9472" : "!117648264!", // Buddhist-Christian Studies
+	"08820945" : "!117648264!", // Buddhist-Christian Studies
+	"0882-0945" : "!117648264!", // Buddhist-Christian Studies
+	"0737-769X" : "!378495917!", // Journal of Chinese Religions
+	"2047704X" : "!39403581X!", // Journal for the Academic Study of Religion
+	"2047-704X" : "!39403581X!", // Journal for the Academic Study of Religion
+	"1031-2943, 1744-9014" : "!39403581X!", // Journal for the Academic Study of Religion
+	"1052-1151, 1533-8568" : "!097188832!", // Religion and American Culture 
+	"1533-8568" : "!097188832!", // Religion and American Culture 
+	"1052-1151" : "!097188832!", // Religion and American Culture 
+	"1467-9418" : "!097934925!", // Reviews in Religion & Theology
+	"1216-7827" : "!038864630!", // Shaman
+	"23744766" : "!42466710X!", // Journal of Book of Mormon Studies
+	"2374-4766" : "!42466710X!", // Journal of Book of Mormon Studies
+	"2374-4774" : "!42466710X!", // Journal of the Book of Mormon Studies
+	"1361-7672" : "!094752656!", // Journal of Beliefs & Values
+	"1353-7903" : "!095237976!", // Journal of Contemporary Religion
+
+	
 	
 };
 
@@ -656,6 +679,9 @@ var languageMapping = {
 	"en-US" : "eng",
 	"en_US" : "eng",
 	"EN" : "eng",
+	"da-DK" : "dan",
+	"da" : "dan",
+	
 };
 
 var issnLangMapping = {
@@ -798,6 +824,7 @@ var issnLangMapping = {
 	"0035-2403" : "fre", // Revue d'histoire et de philosophie religieuses
 	"1359-1835" : "eng", // Journal of material culture
 	"1460-3586" : "eng", // Journal of material culture
+	"1904-8181" : "dan", // Religionsvidenskabeligt Tidsskrift
 	
 
 
@@ -1492,7 +1519,24 @@ var issnPhysicalFormMapping = {
 	"00122157" : "O", // Dialogue: A Journal of Mormon Thought
 	"0392-7288" : "A", // Islamochristiana
 	"0304-1042" : "O", // Japanese Journal of Religious Studies
-
+	"1904-8181" : "O", // Religionsvidenskabeligt Tidsskrift
+	"23258780" : "A", // journal for spiritual and consciousness studies
+	"1527-9472" : "O", // Buddhist-Christian Studies
+	"08820945" : "O", // Buddhist-Christian Studies
+	"0882-0945" : "O", // Buddhist-Christian Studies
+	"0737-769X" : "O", // Journal of Chinese Religions
+	"2047704X" : "O", // Journal for the Academic Study of Religion
+	"2047-704X" : "O", // Journal for the Academic Study of Religion
+	"1031-2943, 1744-9014" : "O", // Journal for the Academic Study of Religion
+	"1052-1151, 1533-8568" : "O", // Religion and American Culture 
+	"1533-8568" : "O", // Religion and American Culture 
+	"1052-1151" : "O", // Religion and American Culture 
+	"1467-9418" : "O", // Reviews in Religion & Theology
+	"1216-7827" : "A", // Shaman
+	"23744766" : "O", // Journal of Book of Mormon Studies
+	"2374-4774" : "O", // Journal of the Book of Mormon Studies
+	"1361-7672" : "O", // Journal of Beliefs & Values
+	"1353-7903" : "O", // Journal of Contemporary Religion
 	
 
 	
@@ -1761,6 +1805,24 @@ var issnSsgMapping = {
 	"00122157" : "0", // Dialogue: A Journal of Mormon Thought
 	"0392-7288" : "0; 1", // Islamochristiana
 	"0304-1042" : "0", // Japanese Journal of Religious Studies
+	"1904-8181" : "0", // Religionsvidenskabeligt Tidsskrift
+	"23258780" : "0", // journal for spiritual and consciousness studies
+	"1527-9472" : "0; 1", // Buddhist-Christian Studies
+	"08820945" : "0; 1", // Buddhist-Christian Studies
+	"0882-0945" : "0; 1", // Buddhist-Christian Studies
+	"0737-769X" : "0", // Journal of Chinese Religions
+	"2047704X" : "0", // Journal for the Academic Study of Religion
+	"2047-704X" : "0", // Journal for the Academic Study of Religion
+	"1031-2943, 1744-9014" : "0", // Journal for the Academic Study of Religion
+	"1052-1151, 1533-8568" : "0; 1", // Religion and American Culture 
+	"1533-8568" : "0; 1", // Religion and American Culture 
+	"1052-1151" : "0; 1", // Religion and American Culture 
+	"1467-9418" : "0; 1", // Reviews in Religion & Theology
+	"23744766" : "0", // Journal of Book of Mormon Studies
+	"2374-4774" : "0", // Journal of the Book of Mormon Studies
+	"1361-7672" : "0", // Journal of Beliefs & Values
+	"1353-7903" : "0", // Journal of Contemporary Religion
+
 	
 
 	
