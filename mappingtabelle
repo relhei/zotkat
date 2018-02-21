@@ -664,6 +664,7 @@ var journalMapping = {
 	"2167-2040" : "!398102066!", // Journal of Korean Religions
 	"2093-7288" : "!398102066!", // Journal of Korean Religions
 	"1703-289X" : "!281223165!", // The Journal of Religion and Popular Culture
+	"2153-599X" : "!457642572!", // Religion, Brain & Behavior
 	
 };
 
@@ -1562,6 +1563,7 @@ var issnPhysicalFormMapping = {
 	"2167-2040" : "O", // Journal of Korean Religions
 	"2093-7288" : "O", // Journal of Korean Religions
 	"1703-289X" : "O", // The Journal of Religion and Popular Culture
+	"2153-599X" : "O", // Religion, Brain & Behavior
 	
 
 	
@@ -1861,6 +1863,7 @@ var issnSsgMapping = {
 	"2167-2040" : "0", // Journal of Korean Religions
 	"2093-7288" : "0", // Journal of Korean Religions
 	"1703-289X" : "0", // The Journal of Religion and Popular Culture
+	"2153-599X" : "0", // Religion, Brain & Behavior
 	
 	
 
