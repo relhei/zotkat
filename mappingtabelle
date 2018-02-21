@@ -665,6 +665,15 @@ var journalMapping = {
 	"2093-7288" : "!398102066!", // Journal of Korean Religions
 	"1703-289X" : "!281223165!", // The Journal of Religion and Popular Culture
 	"2153-599X" : "!457642572!", // Religion, Brain & Behavior
+	"1983-7828" : "!429460791!", // Fragmentos de Cultura
+	"2159-3159" : "!266224822!", // Greek, Roman, and Byzantine Studies
+	"0017-3916" : "!266224822!", // Greek, Roman, and Byzantine Studies
+	"1757-2460, 1757-2479" : "!457642335!", // Journal for Research into Freemasonry and Fraternalism
+	"1757-2460" : "!457642335!", // Journal for Research into Freemasonry and Fraternalism
+	"1757-2479" : "!457642335!", // Journal for Research into Freemasonry and Fraternalism
+	"1357-6275" : "!27386596X!", // Mortality
+	"22366296" : "!407570608!", // Numen
+	"2236-6296" : "!407570608!", // Numen
 	
 };
 
@@ -694,6 +703,7 @@ var languageMapping = {
 	"EN" : "eng",
 	"da-DK" : "dan",
 	"da" : "dan",
+	"pt-BR" : "por"
 	
 };
 
@@ -1564,7 +1574,15 @@ var issnPhysicalFormMapping = {
 	"2093-7288" : "O", // Journal of Korean Religions
 	"1703-289X" : "O", // The Journal of Religion and Popular Culture
 	"2153-599X" : "O", // Religion, Brain & Behavior
-	
+	"1983-7828" : "O", // Fragmentos de Cultura
+	"2159-3159" : "O", // Greek, Roman, and Byzantine Studies
+	"0017-3916" : "O", // Greek, Roman, and Byzantine Studies
+	"1757-2460, 1757-2479" : "O", // Journal for Research into Freemasonry and Fraternalism
+	"1757-2460" : "O", // Journal for Research into Freemasonry and Fraternalism
+	"1757-2479" : "O", // Journal for Research into Freemasonry and Fraternalism
+	"1357-6275" : "O", // Mortality
+	"22366296" : "O", // Numen
+	"2236-6296" : "O", // Numen
 
 	
 };
@@ -1622,6 +1640,11 @@ var issnLicenceFieldMapping = {
 	"0049-3449" : "l", // Teologia y vida
 	"0304-1042" : "l", // Japanese Journal of Religious Studies
 	"0718-4727" : "l", // Revista Cultura & Religión
+	"1983-7828" : "l", // Fragmentos de Cultura
+	"2159-3159" : "l", // Greek, Roman, and Byzantine Studies
+	"0017-3916" : "l", // Greek, Roman, and Byzantine Studies
+	"22366296" : "l", // Numen
+	"2236-6296" : "l", // Numen
 
 	
 
@@ -1864,9 +1887,15 @@ var issnSsgMapping = {
 	"2093-7288" : "0", // Journal of Korean Religions
 	"1703-289X" : "0", // The Journal of Religion and Popular Culture
 	"2153-599X" : "0", // Religion, Brain & Behavior
-	
-	
-
+	"1983-7828" : "0", // Fragmentos de Cultura
+	"2159-3159" : "0", // Greek, Roman, and Byzantine Studies
+	"0017-3916" : "0", // Greek, Roman, and Byzantine Studies
+	"1757-2460, 1757-2479" : "0", // Journal for Research into Freemasonry and Fraternalism
+	"1757-2460" : "0", // Journal for Research into Freemasonry and Fraternalism
+	"1757-2479" : "0", // Journal for Research into Freemasonry and Fraternalism
+	"1357-6275" : "0", // Mortality
+	"22366296" : "0", // Numen
+	"2236-6296" : "0", // Numen
 	
 	
 	
