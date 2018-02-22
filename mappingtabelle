@@ -674,6 +674,7 @@ var journalMapping = {
 	"1357-6275" : "!27386596X!", // Mortality
 	"22366296" : "!407570608!", // Numen
 	"2236-6296" : "!407570608!", // Numen
+	"2196-6265" : "!370217381!", // Jahrbuch für Christliche Sozialwissenschaften
 	
 };
 
@@ -1583,7 +1584,7 @@ var issnPhysicalFormMapping = {
 	"1357-6275" : "O", // Mortality
 	"22366296" : "O", // Numen
 	"2236-6296" : "O", // Numen
-
+	"2196-6265" : "O", // Jahrbuch für Christliche Sozialwissenschaften
 	
 };
 
