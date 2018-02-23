@@ -2,7 +2,6 @@
 
 
 
-
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -142,7 +141,7 @@ var journalMapping = {
 	"2044-2556" : "!325341001!", // Theology today
 	"2304-4896" : "!018091229!", // Zeitschrift der Savigny-Stiftung für Rechtsgeschichte / Kanonistische Abteilung
 	"0323-4142" : "!018091229!", // Zeitschrift der Savigny-Stiftung für Rechtsgeschichte / Kanonistische Abteilung
-	"0486-5642" : "!015195538!", // Restoration quarterly
+	"0486-5642" : "!325341354!", // Restoration quarterly
 	"0360-3032" : "!015206114!", // Trinity journal
     "0340-6083" : "!01450135X!", // Göttinger Predigtmeditationen
 	"0720-6259" : "!014553880!", // Pastoraltheologie
@@ -678,6 +677,11 @@ var journalMapping = {
 	"22366296" : "!407570608!", // Numen
 	"2236-6296" : "!407570608!", // Numen
 	"2196-6265" : "!370217381!", // Jahrbuch für Christliche Sozialwissenschaften
+	"0004-8011" : "!445969504!", // Augustinianum
+	"1065223X" : "!347283926!", // Bulletin of the Biblical Research
+	"1065-223X" : "!347283926!", // Bulletin of the Biblical Research
+	
+	
 	
 };
 
@@ -1002,7 +1006,7 @@ var issnPhysicalFormMapping = {
 	"00405736" : "O", // Theology today
 	"2304-4896" : "A", // Zeitschrift der Savigny-Stiftung für Rechtsgeschichte / Kanonistische Abteilung
 	"0323-4142" : "A", // Zeitschrift der Savigny-Stiftung für Rechtsgeschichte / Kanonistische Abteilung
-	"0486-5642" : "A", // Restoration quarterly
+	"0486-5642" : "O", // Restoration quarterly
 	"0360-3032" : "A", // Trinity journal
     "0340-6083" : "A", // Göttinger Predigtmeditationen
 	"0720-6259" : "A", // Pastoraltheologie
@@ -1588,6 +1592,11 @@ var issnPhysicalFormMapping = {
 	"22366296" : "O", // Numen
 	"2236-6296" : "O", // Numen
 	"2196-6265" : "O", // Jahrbuch für Christliche Sozialwissenschaften
+	"0004-8011" : "O", // Augustinianum
+	"1065223X" : "O", // Bulletin of the Biblical Research
+	"1065-223X" : "O", // Bulletin of the Biblical Research
+	
+	
 	
 };
 
