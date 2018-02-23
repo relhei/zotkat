@@ -1,5 +1,8 @@
 
 
+
+
+
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -127,7 +130,7 @@ var journalMapping = {
 	"00259373" : "!015181278!", // The Mennonite quarterly review 
 	"1023-0807" : "!043088619!", // Religion and theology  
 	"1574-3012" : "!043088619!", // Religion and theology  
-	"0036-3227" : "!015183696!", // St. Vladimir's theological quarterly   
+	"0036-3227" : "!494225416!", // St. Vladimir's theological quarterly   
 	"0092-4245" : "!015192091!", // Wesleyan theological journal
 	"0006-2014" : "!014828995!", // Biblische Zeitschrift
 	"1469-8145" : "!079165583!", // New Testament Studies
@@ -982,11 +985,11 @@ var issnPhysicalFormMapping = {
     "1570-0739" : "A", // Zeitschrift für Religions- und Geistesgeschichte
 	"0275-5270" : "A", // Word and World
 	"0034-3072" : "A", // Reformed theological review  
-	"0025-9373" : "A", // The Mennonite quarterly review  
-	"00259373" : "A", // The Mennonite quarterly review
+	"0025-9373" : "O", // The Mennonite quarterly review  
+	"00259373" : "O", // The Mennonite quarterly review
 	"1023-0807" : "A", // Religion and theology  
 	"1574-3012" : "A", // Religion and theology  
-	"0036-3227" : "A", // St. Vladimir's theological quarterly   
+	"0036-3227" : "O", // St. Vladimir's theological quarterly   
 	"0092-4245" : "A", // Wesleyan theological journal
 	"0006-2014" : "A", // Biblische Zeitschrift
 	"1469-8145" : "O", // New Testament studies
