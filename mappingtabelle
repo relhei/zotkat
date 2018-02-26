@@ -2,6 +2,7 @@
 
 
 
+
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -466,7 +467,7 @@ var journalMapping = {
 	"0210-1610" : "!015178765!", // Estudios eclesiásticos
 	"1945-9718" : "!307016250!", // Franciscan Studies
 	"0080-5459" : "!307016250!", // Franciscan Studies
-	"0018-215X" : "!014950790!", // Hispania Sacra
+	"0018-215X" : "!281366985!", // Hispania Sacra
 	"2267-7313" : "!398332924!", // Histoire, monde et cultures religieuses
 	"0360-9669, 2050-8557" : "!014815435!", // Horizons
 	"0360-9669" : "!014815435!", // Horizons
@@ -686,6 +687,8 @@ var journalMapping = {
 	"0745-3698" : "!483608033!", // American Baptist Quarterly
 	"03799557" : "!273889931!", // Theological review
 	"0379-9557" : "!273889931!", // Theological review
+	"0036-9764" : "!319103358!", // Scripta Theologica
+	
 	
 	
 };
@@ -716,7 +719,8 @@ var languageMapping = {
 	"EN" : "eng",
 	"da-DK" : "dan",
 	"da" : "dan",
-	"pt-BR" : "por"
+	"pt-BR" : "por",
+	
 	
 };
 
@@ -1416,7 +1420,7 @@ var issnPhysicalFormMapping = {
 	"0210-1610" : "A", // Estudios eclesiásticos
 	"1945-9718" : "O", // Franciscan Studies
 	"0080-5459" : "O", // Franciscan Studies
-	"0018-215X" : "A", // Hispania Sacra
+	"0018-215X" : "O", // Hispania Sacra
 	"2267-7313" : "A", // Histoire, monde et cultures religieuses
 	"0360-9669, 2050-8557" : "A", // Horizons
 	"1740-3553, 1745-5278" : "O", // Journal of Anglican Studies
@@ -1603,7 +1607,7 @@ var issnPhysicalFormMapping = {
 	"10626549" : "O", // Cistercian studies quarterly
 	"0745-3698" : "O", // American Baptist Quarterly
 	"03799557" : "O", // Theological review
-	
+	"0036-9764" : "O", // Scripta Theologica
 	
 	
 	
@@ -1667,7 +1671,7 @@ var issnLicenceFieldMapping = {
 	"0017-3916" : "l", // Greek, Roman, and Byzantine Studies
 	"22366296" : "l", // Numen
 	"2236-6296" : "l", // Numen
-
+	"0018-215X" : "l", // Hispania Sacra
 	
 
 	
@@ -1936,5 +1940,4 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
