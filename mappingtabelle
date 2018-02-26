@@ -1,7 +1,6 @@
 
 
 
-
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -279,8 +278,8 @@ var journalMapping = {
 	"1468-2400" : "!094641951!", // International journal of systematic theology !!eppn
 	"1463-1652" : "!094641951!", // International journal of systematic theology
 	"14631652" : "!094641951!", // International journal of systematic theology
-	"0361-0160" : "!014787814!", // The Sixteenth Century Journal
-	"03610160" : "!014787814!", // The Sixteenth Century Journal
+	"0361-0160" : "!103189548!", // The Sixteenth Century Journal
+	"03610160" : "!103189548!", // The Sixteenth Century Journal
 	"0014-2239" : "!01496967X!", // Etudes théologiques et religieuses
 	"2272-9011" : "!01496967X!", // Etudes théologiques et religieuses
 	"0038-8610" : "!015205207!", // Concordia Theological Quarterly
@@ -558,7 +557,7 @@ var journalMapping = {
 	"2150-9298" : "!365211141!", //  Religion and society
 	"2150-9301" : "!365211141!", //  Religion and society
 	"0008-1795" : "!015177513!", // Calvin Theological Journal
-	"2593-0486" : "!493816305!", // Marriage, Families and Spirituality
+	"2593-0486" : "!494985240!", // Marriage, Families and Spirituality
 	"00027650" : "!015022609!", // The American Benedictine Review
 	"0002-7650" : "!015022609!", // The American Benedictine Review
 	"0008-8501" : "!014399490!", // Catholica
@@ -683,6 +682,7 @@ var journalMapping = {
 	"0026-1238" : "!420019235!", // Methodist History
 	"10626549" : "!273885499!", // Cistercian studies quarterly
 	"1062-6549" : "!273885499!", // Cistercian studies quarterly
+	"0745-3698" : "!483608033!", // American Baptist Quarterly
 	
 	
 };
@@ -1257,8 +1257,8 @@ var issnPhysicalFormMapping = {
 	"0141-6200" : "A", // British Journal of Religious Education
 	"0360-6503" : "A", // Process studies
 	"2294-6209" : "A", // Byzantion
-	"0361-0160" : "A", // The Sixteenth Century Journal
-	"03610160" : "A", // The Sixteenth Century Journal
+	"0361-0160" : "O", // The Sixteenth Century Journal
+	"03610160" : "O", // The Sixteenth Century Journal
 	"0038-8610" : "A", // Concordia Theological Quarterly
 	"0014-2239" : "A", // Etudes théologiques et religieuses !!pppn
 	"2272-9011" : "A", // Etudes théologiques et religieuses !!eppn
@@ -1494,7 +1494,7 @@ var issnPhysicalFormMapping = {
 	"21509301" : "O", //  Religion and society
 	"2150-9298, 2150-9301" : "O", //  Religion and society
 	"0008-1795" : "A", // Calvin Theological Journal
-	"2593-0486" : "A", // Marriage, Families and Spirituality
+	"2593-0486" : "O", // Marriage, Families and Spirituality
 	"00027650" : "A", // The American Benedictine Review
 	"0002-7650" : "A", // The American Benedictine Review
 	"0008-8501" : "A", // Catholica
@@ -1599,6 +1599,7 @@ var issnPhysicalFormMapping = {
 	"1065-223X" : "O", // Bulletin of the Biblical Research
 	"0026-1238" : "O", // Methodist History
 	"10626549" : "O", // Cistercian studies quarterly
+	"0745-3698" : "O", // American Baptist Quarterly
 	
 	
 	
