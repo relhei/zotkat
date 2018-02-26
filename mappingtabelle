@@ -12,7 +12,7 @@ var journalMapping = {
     "0891-5881" : "!023125381!", // Dialogue and alliance
 	"0884-5379" : "!341092975!", // fides et historia
 	"08845379" : "!341092975!", // fides et historia
-	"1474-6700" : "!105283193!", // Theology and science  
+	"1474-6700" : "!261325019!", // Theology and science  
 	"1462-2459" : "!094835578!", // Reformation & Renaissance review  
 	"0037-7686" : "!079599338!", // Social compass 
 	"1461-7404" : "!079599338!", // Social compass 
@@ -163,7 +163,7 @@ var journalMapping = {
 	"1069-4404" : "!263021270!", // Sociology of religion
 	"1069-4404, 1759-8818" : "!263021270!", // Sociology of religion
 	"1759-8818" : "!263021270!", // Sociology of religion
-	"0141-6200" : "!015208621!", // British journal of religious education
+	"0141-6200" : "!258360356!", // British journal of religious education
 	"2169-2327, 2169-2335" : "!381569306!", // International journal of philosophy and theology
 	"2169-2327" : "!381569306!", // International journal of philosophy and theology
 	"0890-2461" : "!016231562!", // Philosophy & theology
@@ -684,6 +684,8 @@ var journalMapping = {
 	"10626549" : "!273885499!", // Cistercian studies quarterly
 	"1062-6549" : "!273885499!", // Cistercian studies quarterly
 	"0745-3698" : "!483608033!", // American Baptist Quarterly
+	"03799557" : "!273889931!", // Theological review
+	"0379-9557" : "!273889931!", // Theological review
 	
 	
 };
@@ -884,7 +886,7 @@ var issnPhysicalFormMapping = {
     "0891-5881" : "A", // Dialogue and alliance
 	"0884-5379" : "A", // fides et historia
 	"08845379" : "A", // fides et historia
-	"1474-6700" : "A", // Theology and science  
+	"1474-6700" : "O", // Theology and science  
 	"1462-2459" : "A", // Reformation & Renaissance review  
 	"0031-0328" : "A", // Palestine exploration quarterly 
 	"0037-7686" : "O", // Social compass 
@@ -1030,7 +1032,7 @@ var issnPhysicalFormMapping = {
 	"1890-7008" : "O", // Nordic journal of religion and society 
 	"1069-4404" : "O", // Sociology of religion
 	"1759-8818" : "O", // Sociology of religion
-	"0141-6200" : "A", // British journal of religious education
+	"0141-6200" : "O", // British journal of religious education
 	"2169-2327" : "A", // International journal of philosophy and theology
 	"2169-2335" : "A", // International journal of philosophy and theology
 	"0890-2461" : "A", // Philosophy & theology
@@ -1255,7 +1257,6 @@ var issnPhysicalFormMapping = {
 	"1783-1806" : "A", // Studies in Interreligious Dialogue
 	"1867-4240" : "O", // Transformierte Buddhismen
 	"1583-0039" : "O", // Journal for the Study of Religions and Ideologies
-	"0141-6200" : "A", // British Journal of Religious Education
 	"0360-6503" : "A", // Process studies
 	"2294-6209" : "A", // Byzantion
 	"0361-0160" : "O", // The Sixteenth Century Journal
@@ -1601,6 +1602,8 @@ var issnPhysicalFormMapping = {
 	"0026-1238" : "O", // Methodist History
 	"10626549" : "O", // Cistercian studies quarterly
 	"0745-3698" : "O", // American Baptist Quarterly
+	"03799557" : "O", // Theological review
+	
 	
 	
 	
