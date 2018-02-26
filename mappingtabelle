@@ -1,6 +1,7 @@
 
 
 
+
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -338,8 +339,8 @@ var journalMapping = {
 	"17224705" : "!016231732!", // Religioni e società
 	"0002-7189" : "!10686971X!", // Journal of the American Academy of Religion
 	"1477-4585" : "!10686971X!", // Journal of the American Academy of Religion
-	"00088080" : "!01452595X!", // The catholic historical review
-	"0008-8080" : "!01452595X!", // The catholic historical review
+	"00088080" : "!266819001!", // The catholic historical review
+	"0008-8080" : "!266819001!", // The catholic historical review
 	"0024-6964" : "!015195600!", // Louvain Studies
 	"13549901" : "!04851618X!", // Studies in world christianity !!pppn
 	"1354-9901" : "!04851618X!", // Studies in world christianity !!pppn
@@ -1315,8 +1316,8 @@ var issnPhysicalFormMapping = {
 	"17224705" : "A", // Religioni e società
 	"0002-7189" : "O", // Journal of the American Academy of Religion
 	"1477-4585" : "O", // Journal of the American Academy of Religion
-	"0008-8080" : "A", // The catholic historical review
-	"00088080" : "A", // The catholic historical review
+	"0008-8080" : "O", // The catholic historical review
+	"00088080" : "O", // The catholic historical review
 	"0024-6964" : "A", // Louvain Studies
 	"1323-6377" : "A", // Uniting Church Studies
 	"0023-9054, 1703-8804" : "A", // Laval théologique et philosophiqueLaval théologique et philosophique
