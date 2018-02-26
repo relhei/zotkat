@@ -681,7 +681,8 @@ var journalMapping = {
 	"1065223X" : "!347283926!", // Bulletin of the Biblical Research
 	"1065-223X" : "!347283926!", // Bulletin of the Biblical Research
 	"0026-1238" : "!420019235!", // Methodist History
-	
+	"10626549" : "!273885499!", // Cistercian studies quarterly
+	"1062-6549" : "!273885499!", // Cistercian studies quarterly
 	
 	
 };
@@ -1597,6 +1598,7 @@ var issnPhysicalFormMapping = {
 	"1065223X" : "O", // Bulletin of the Biblical Research
 	"1065-223X" : "O", // Bulletin of the Biblical Research
 	"0026-1238" : "O", // Methodist History
+	"10626549" : "O", // Cistercian studies quarterly
 	
 	
 	
@@ -1929,4 +1931,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
