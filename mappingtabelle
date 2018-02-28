@@ -32,8 +32,8 @@ var journalMapping = {
 	"09518207" : "!119460610!", // Journal for the study of the pseudepigrapha 
 	"1357-4175" : "!061284815!", // Reformation  
 	"1752-0738" : "!061284815!", // Reformation  
-	"1462-317X" : "!098784013!", // Political theology   
-	"1743-1719" : "!098784013!", // Political theology   
+	"1462-317X" : "!25998390X!", // Political theology   
+	"1743-1719" : "!25998390X!", // Political theology   
 	"0360-6503" : "!015202178!", // Process studies  
 	"03606503" : "!015202178!", // Process studies  
 	"0733-4273" : "!015054578!", // Journal of psychology and Christianity
@@ -506,7 +506,7 @@ var journalMapping = {
 	"1553-3913" : "!015906353!", // Journal of feminist studies in religion
 	"8755-4178" : "!015906353!", // Journal of feminist studies in religion
 	"1050-8619" : "!025188534!", // The International Journal for the Psychology of Religion
-	"2056-9971" : "!428338216!", // International journal of Christianity & education
+	"2056-9971" : "!428515673!", // International journal of Christianity & education
 	"1749-8171" : "!278762514!", // Religion compass
 	"1092-6690, 1541-8480" : "!066688779!", // Nova religio
 	"1092-6690" : "!066688779!", // Nova religio
@@ -908,8 +908,8 @@ var issnPhysicalFormMapping = {
 	"09667350" : "O", // Feminist theology 
 	"1357-4175" : "A", // Reformation  
 	"1752-0738" : "A", // Reformation  
-	"1462-317X" : "A", // Political theology   
-	"1743-1719" : "A", // Political theology   
+	"1462-317X" : "O", // Political theology   
+	"1743-1719" : "O", // Political theology   
 	"0360-6503" : "A", // Process studies  
 	"03606503" :"A", // Process studies	
 	"0733-4273" : "A", // Journal of psychology and Christianity
@@ -1452,7 +1452,7 @@ var issnPhysicalFormMapping = {
 	"1553-3913" : "A", // Journal of feminist studies in religion
 	"87554178, 15533913" : "A", // Journal of feminist studies in religion
 	"1050-8619" : "A", // The International Journal for the Psychology of Religion
-	"2056-9971" : "A", // International journal of Christianity & education
+	"2056-9971" : "O", // International journal of Christianity & education
 	"1749-8171" : "O", // Religion compass
 	"1092-6690, 1541-8480" : "A", // Nova religio
 	"0075-2584" : "A", // Jahrbuch für christliche Sozialwissenschaften
@@ -1940,5 +1940,4 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
