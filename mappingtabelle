@@ -2,7 +2,6 @@
 
 
 
-
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -453,8 +452,8 @@ var journalMapping = {
 	"1573-6571" : "!121466191!", // Journal of Religion and Health
 	"0022-4197" : "!121466191!", // Journal of Religion and Health
 	"2555-5111" : "!461242036!", // Journal international de bioéthique et d'éthique des sciences
-	"00378887" : "!014392976!", // Archivum historicum Societatis Iesu
-	"0037-8887" : "!014392976!", // Archivum historicum Societatis Iesu
+	"00378887" : "!256840768!", // Archivum historicum Societatis Iesu
+	"0037-8887" : "!256840768!", // Archivum historicum Societatis Iesu
 	"2295-6093" : "!014393662!", // Augustiniana
 	"0045-0308" : "!015178129!", // Australian biblical review
 	"00450308" : "!015178129!", // Australian biblical review
@@ -720,6 +719,7 @@ var languageMapping = {
 	"da-DK" : "dan",
 	"da" : "dan",
 	"pt-BR" : "por",
+	"es-ES" : "spa",
 	
 	
 };
@@ -1407,7 +1407,7 @@ var issnPhysicalFormMapping = {
 	"1573-6571" : "O", // Journal of Religion and Health
 	"0022-4197" : "O", // Journal of Religion and Health
 	"2555-5111" : "A", // Journal international de bioéthique et d'éthique des sciences
-	"00378887" : "A", // Archivum historicum Societatis Iesu
+	"00378887" : "O", // Archivum historicum Societatis Iesu
 	"2295-6093" : "A", // Augustiniana
 	"0045-0308" : "A", // Australian biblical review
 	"00450308" : "A", // Australian biblical review
@@ -1940,4 +1940,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
