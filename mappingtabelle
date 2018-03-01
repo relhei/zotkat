@@ -71,8 +71,8 @@ var journalMapping = {
 	"0091-6471" : "!015193306!", // Journal of psychology and theology
 	"1476-8690" : "!106846396!", // Journal for the study of the historical Jesus
 	"2222-582X" : "!478691874!", // Journal of early Christian history
-	"0018-2710" : "!014406292!", // History of religions
-	"1545-6935" : "!014406292!", // History of religions
+	"0018-2710" : "!105214884!", // History of religions
+	"1545-6935" : "!105214884!", // History of religions
 	"0384-9694" : "!014804743!", // Journal of religious ethics
 	"1467-9795" : "!014804743!", // Journal of religious ethics 
 	"0943-3058" : "!026374846!", // Method & theory in the study of religion
@@ -123,7 +123,7 @@ var journalMapping = {
 	"1934-9645" : "!260747769!", // Journal of spirituality in mental health
     "1570-0739" : "!014821419!", // Zeitschrift für Religions- und Geistesgeschichte
 	"0275-5270" : "!015243044!", // Word and World
-	"0034-3072" : "!015182711!", // Reformed theological review  
+	"0034-3072" : "!42401243X!", // Reformed theological review  
 	"0025-9373" : "!015181278!", // The Mennonite quarterly review  
 	"00259373" : "!015181278!", // The Mennonite quarterly review 
 	"1023-0807" : "!043088619!", // Religion and theology  
@@ -946,8 +946,8 @@ var issnPhysicalFormMapping = {
 	"0091-6471" : "A", // Journal of psychology and theology
 	"1476-8690" : "A", // Journal for the study of the historical Jesus
 	"2222-582X" : "O", // Journal of early Christian history
-	"0018-2710" : "A", // History of religions
-	"1545-6935" : "A", // History of religions
+	"0018-2710" : "O", // History of religions
+	"1545-6935" : "O", // History of religions
 	"0384-9694" : "A", // Journal of religious ethics
 	"1467-9795" : "A", // Journal of religious ethics
 	"0943-3058" : "A", // Method & theory in the study of religion
@@ -998,7 +998,7 @@ var issnPhysicalFormMapping = {
 	"1934-9645" : "A", // Journal of spirituality in mental health
     "1570-0739" : "A", // Zeitschrift für Religions- und Geistesgeschichte
 	"0275-5270" : "A", // Word and World
-	"0034-3072" : "A", // Reformed theological review  
+	"0034-3072" : "O", // Reformed theological review  
 	"0025-9373" : "O", // The Mennonite quarterly review  
 	"00259373" : "O", // The Mennonite quarterly review
 	"1023-0807" : "A", // Religion and theology  
