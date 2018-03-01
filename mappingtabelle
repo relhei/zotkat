@@ -1,7 +1,6 @@
 
 
 
-
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -687,6 +686,8 @@ var journalMapping = {
 	"03799557" : "!273889931!", // Theological review
 	"0379-9557" : "!273889931!", // Theological review
 	"0036-9764" : "!319103358!", // Scripta Theologica
+	"01448153" : "!273873954!", // Evangelical Review of Theology
+	"0144-8153" : "!273873954!", // Evangelical Review of Theology
 	
 	
 	
@@ -1608,6 +1609,7 @@ var issnPhysicalFormMapping = {
 	"0745-3698" : "O", // American Baptist Quarterly
 	"03799557" : "O", // Theological review
 	"0036-9764" : "O", // Scripta Theologica
+	"01448153" : "O", // Evangelical Review of Theology
 	
 	
 	
@@ -1672,6 +1674,7 @@ var issnLicenceFieldMapping = {
 	"22366296" : "l", // Numen
 	"2236-6296" : "l", // Numen
 	"0018-215X" : "l", // Hispania Sacra
+	"1011-7601" : "l", // Journal for the Study of Religion
 	
 
 	
@@ -1940,4 +1943,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
