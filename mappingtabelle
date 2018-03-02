@@ -1,6 +1,7 @@
 
 
 
+
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -499,9 +500,8 @@ var journalMapping = {
 	"0034-673X" : "!257192638!", // Review of Religious Research
 	"2211-4866" : "!257192638!", // Review of Religious Research
 	"1468-5906" : "!093888538!", // Journal for the Scientific Study of Religion
-	"0081-6175" : "!014421143!", // Studi e materiali di storia delle religioni
-	"0393-8417" : "!014421143!", // Studi e materiali di storia delle religioni
-	"0036-1690" : "!014421143!", // Studi e materiali di storia delle religioni
+	"03938417" : "!375594558!", // Studi e materiali di storia delle religioni
+	"0393-8417" : "!375594558!", // Studi e materiali di storia delle religioni
 	"1553-3913" : "!015906353!", // Journal of feminist studies in religion
 	"8755-4178" : "!015906353!", // Journal of feminist studies in religion
 	"1050-8619" : "!025188534!", // The International Journal for the Psychology of Religion
@@ -688,7 +688,7 @@ var journalMapping = {
 	"0036-9764" : "!319103358!", // Scripta Theologica
 	"01448153" : "!273873954!", // Evangelical Review of Theology
 	"0144-8153" : "!273873954!", // Evangelical Review of Theology
-	
+	"2565-7070" : "!281200165!", // Biblica
 	
 	
 };
@@ -1169,7 +1169,7 @@ var issnPhysicalFormMapping = {
 	"2473-3725" : "A", // The Thomist !!eppn
 	"0969-7330" : "A", // Nursing ethics !!pppn
 	"1477-0989" : "A", // Nursing ethics !!eppn
-	"0006-0887" : "A", // Biblica !!pppn
+	"2565-7070" : "O", // Biblica !!pppn
 	"1568-5365" : "A", // Novum Testamentum !!eppn
 	"1568-5330" : "A", // Vetus Testamentum !!eppn
 	"1568-5179" : "A", // Dead Sea discoveries !!eppn
@@ -1448,7 +1448,7 @@ var issnPhysicalFormMapping = {
 	"2031-5929" : "A", // Annali di Scienze Religiose
 	"0034-673X, 2211-4866" : "O", // Review of Religious Research
 	"1468-5906" : "O", // Journal for the Scientific Study of Religion
-	"03938417" : "A", // Studi e materiali di storia delle religioni
+	"03938417" : "O", // Studi e materiali di storia delle religioni
 	"1069-4404, 1759-8818" : "O", // Sociology of religion
 	"1553-3913" : "A", // Journal of feminist studies in religion
 	"87554178, 15533913" : "A", // Journal of feminist studies in religion
@@ -1943,5 +1943,4 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
