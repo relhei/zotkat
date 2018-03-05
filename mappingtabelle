@@ -1,6 +1,7 @@
 
 
 
+
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -559,7 +560,7 @@ var journalMapping = {
 	"2593-0486" : "!494985240!", // Marriage, Families and Spirituality
 	"00027650" : "!015022609!", // The American Benedictine Review
 	"0002-7650" : "!015022609!", // The American Benedictine Review
-	"0008-8501" : "!014399490!", // Catholica
+	"0008-8501" : "!255124406!", // Catholica
 	"00105236" : "!015241661!", // Concilium - Englische Ausgabe !!!!
 	"0010-5236" : "!015241661!", // Concilium - Englische Ausgabe !!!!
 	"0018-0645" : "!014406144!", // Herder Korrespondenz
@@ -1506,7 +1507,7 @@ var issnPhysicalFormMapping = {
 	"2593-0486" : "O", // Marriage, Families and Spirituality
 	"00027650" : "A", // The American Benedictine Review
 	"0002-7650" : "A", // The American Benedictine Review
-	"0008-8501" : "A", // Catholica
+	"0008-8501" : "O", // Catholica
 	"00105236" : "A", // Concilium - Englische Ausgabe !!!!
 	"0010-5236" : "A", // Concilium - Englische Ausgabe !!!!
 	"00180645" : "A", // Herder Korrespondenz
@@ -1947,4 +1948,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
