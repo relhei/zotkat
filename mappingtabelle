@@ -1,7 +1,6 @@
 
 
 
-
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -592,8 +591,8 @@ var journalMapping = {
 	"0049-3449" : "!015202569!", // Teologia y vida
 	"0049-3449,  0717-6295" : "!015202569!", // Teologia y vida
 	"1550-4891" : "!260776262!", // Cultural encounters
-	"0008-7912" : "!014775395!", // The catholic biblical quarterly !!pppn
-	"00087912" : "!014775395!", // The catholic biblical quarterly !!pppn
+	"0008-7912" : "!25241747X!", // The catholic biblical quarterly !!pppn
+	"00087912" : "!25241747X!", // The catholic biblical quarterly !!pppn
 	"2295-3027" : "!015198510!", // Studia Canonica
 	"0035-2403" : "!014915391!", // Revue d'histoire et de philosophie religieuses
 	"1359-1835" : "!079877222!", // Journal of material culture
@@ -689,6 +688,9 @@ var journalMapping = {
 	"01448153" : "!273873954!", // Evangelical Review of Theology
 	"0144-8153" : "!273873954!", // Evangelical Review of Theology
 	"2565-7070" : "!281200165!", // Biblica
+	"2470-5616" : "!325341249!", // Lutheran Quarterly
+	
+	
 	
 	
 };
@@ -1185,8 +1187,8 @@ var issnPhysicalFormMapping = {
 	"00033286" : "O", // Anglican theological review !!eppp
 	"0006-0895" : "A", // The Biblical archeologist !!pppn
 	"1094-2076" : "O", // Near Eastern archaeology  !!pppn
-	"0008-7912" : "A", // The catholic biblical quarterly !!pppn
-	"00087912" : "A", // The catholic biblical quarterly !!pppn
+	"0008-7912" : "O", // The catholic biblical quarterly !!pppn
+	"00087912" : "O", // The catholic biblical quarterly !!pppn
 	"0009-5281" : "A", // The Christian century !!pppn
 	"0009-5281" : "A", // The Christian century !!eppn
 	"0009-5753" : "A", // Christianity today !!pppn
@@ -1610,6 +1612,8 @@ var issnPhysicalFormMapping = {
 	"03799557" : "O", // Theological review
 	"0036-9764" : "O", // Scripta Theologica
 	"01448153" : "O", // Evangelical Review of Theology
+	"2470-5616" : "O", // Lutheran Quarterly
+	
 	
 	
 	
