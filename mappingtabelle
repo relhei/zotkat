@@ -589,8 +589,8 @@ var journalMapping = {
 	"03933849" : "!014791072!", // Rivista di scienze dell'educazione
 	"0393-3849" : "!014791072!", // Rivista di scienze dell'educazione
 	"1120-8333" : "!028039645!", // Ricerche Teologiche
-	"0049-3449" : "!015202569!", // Teologia y vida
-	"0049-3449,  0717-6295" : "!015202569!", // Teologia y vida
+	"0049-3449" : "!28122269X!", // Teologia y vida
+	"0049-3449,  0717-6295" : "!28122269X!", // Teologia y vida
 	"1550-4891" : "!260776262!", // Cultural encounters
 	"0008-7912" : "!25241747X!", // The catholic biblical quarterly !!pppn
 	"00087912" : "!25241747X!", // The catholic biblical quarterly !!pppn
@@ -690,6 +690,7 @@ var journalMapping = {
 	"0144-8153" : "!273873954!", // Evangelical Review of Theology
 	"2565-7070" : "!281200165!", // Biblica
 	"2470-5616" : "!325341249!", // Lutheran Quarterly
+	"0335-5985" : "!281246386!", // Archives de sciences sociales des religions
 	
 	
 	
@@ -1531,8 +1532,8 @@ var issnPhysicalFormMapping = {
 	"03449254" : "A", // Unitas Fratrum
 	"03933849" : "A", // Rivista di scienze dell'educazione
 	"1120-8333" : "A", // Ricerche Teologiche
-	"0049-3449" : "A", // Teologia y vida
-	"0049-3449,  0717-6295" : "A", // Teologia y vida
+	"0049-3449" : "O", // Teologia y vida
+	"0049-3449,  0717-6295" : "O", // Teologia y vida
 	"1550-4891" : "A", // Cultural encounters
 	"2295-3027" : "A", // Studia Canonica
 	"0035-2403" : "A", // Revue d'histoire et de philosophie religieuses
@@ -1614,7 +1615,7 @@ var issnPhysicalFormMapping = {
 	"0036-9764" : "O", // Scripta Theologica
 	"01448153" : "O", // Evangelical Review of Theology
 	"2470-5616" : "O", // Lutheran Quarterly
-	
+	"0335-5985" : "O", // Archives de sciences sociales des religions
 	
 	
 	
@@ -1930,7 +1931,7 @@ var issnSsgMapping = {
 	"1357-6275" : "0", // Mortality
 	"22366296" : "0", // Numen
 	"2236-6296" : "0", // Numen
-	
+	"0335-5985" : "0", // Archives de sciences sociales des religions
 	
 	
 };
