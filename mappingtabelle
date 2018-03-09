@@ -2,6 +2,7 @@
 
 
 
+
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -114,8 +115,8 @@ var journalMapping = {
 	"0229-2807" : "!059754931!", // ARC
 	"0094-5323" : "!015192121!", // Augustinian studies
 	"00143367" : "!015178811!", // Evangelical quarterly
-	"1474-225X" : "!099026465!", // International journal for the study of the Christian church
-	"1747-0234" : "!099026465!", // International journal for the study of the Christian church
+	"1474-225X" : "!255884532!", // International journal for the study of the Christian church
+	"1747-0234" : "!255884532!", // International journal for the study of the Christian church
 	"1547-9080" : "!111171709!", // Newman studies journal
 	"0144-8153" : "!015230376!", // Evangelical review of theology
 	"0360-8808" : "!015535347!", // Journal of the Evangelical Theological Society
@@ -994,8 +995,8 @@ var issnPhysicalFormMapping = {
 	"0229-2807" : "A", // ARC
 	"0094-5323" : "A", // Augustinian studies
 	"0014-3367" : "A", // Evangelical quarterly
-	"1474-225X" : "A", // International journal for the study of the Christian church
-	"1747-0234" : "A", // International journal for the study of the Christian church
+	"1474-225X" : "O", // International journal for the study of the Christian church
+	"1747-0234" : "O", // International journal for the study of the Christian church
 	"1547-9080" : "A", // Newman studies journal
 	"0144-8153" : "A", // Evangelical review of theology
 	"0360-8808" : "A", // Journal of the Evangelical Theological Society
@@ -1954,5 +1955,4 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
