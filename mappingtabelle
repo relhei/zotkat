@@ -693,7 +693,9 @@ var journalMapping = {
 	"2565-7070" : "!281200165!", // Biblica
 	"2470-5616" : "!325341249!", // Lutheran Quarterly
 	"0335-5985" : "!281246386!", // Archives de sciences sociales des religions
-	
+	"00027049" : "!252295935!", // America
+	"0002-7049" : "!252295935!", // America
+	"2589-3998" : "!500402590!", // Yearbook of ritual and liturgical studies
 	
 	
 	
@@ -1620,6 +1622,8 @@ var issnPhysicalFormMapping = {
 	"01448153" : "O", // Evangelical Review of Theology
 	"2470-5616" : "O", // Lutheran Quarterly
 	"0335-5985" : "O", // Archives de sciences sociales des religions
+	"00027049" : "O", // America
+	"2589-3998" : "O", // Yearbook of ritual and liturgical studies
 	
 	
 	
@@ -1685,7 +1689,7 @@ var issnLicenceFieldMapping = {
 	"2236-6296" : "l", // Numen
 	"0018-215X" : "l", // Hispania Sacra
 	"1011-7601" : "l", // Journal for the Study of Religion
-	
+	"2589-3998" : "l", // Yearbook of ritual and liturgical studies
 
 	
 
