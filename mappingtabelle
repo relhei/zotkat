@@ -1,8 +1,6 @@
 
 
 
-
-
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -695,7 +693,7 @@ var journalMapping = {
 	"0335-5985" : "!281246386!", // Archives de sciences sociales des religions
 	"00027049" : "!252295935!", // America
 	"0002-7049" : "!252295935!", // America
-	"2589-3998" : "!500402590!", // Yearbook of ritual and liturgical studies
+	"2589-3998" : "!497881373!", // Yearbook of ritual and liturgical studies
 	
 	
 	
@@ -1959,4 +1957,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
