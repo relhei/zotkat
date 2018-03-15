@@ -1,6 +1,7 @@
 
 
 
+
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -453,7 +454,7 @@ var journalMapping = {
 	"2555-5111" : "!461242036!", // Journal international de bioéthique et d'éthique des sciences
 	"00378887" : "!256840768!", // Archivum historicum Societatis Iesu
 	"0037-8887" : "!256840768!", // Archivum historicum Societatis Iesu
-	"2295-6093" : "!014393662!", // Augustiniana
+	"2295-6093" : "!407317074!", // Augustiniana
 	"0045-0308" : "!015178129!", // Australian biblical review
 	"00450308" : "!015178129!", // Australian biblical review
 	"1886-4945" : "!302971882!", //  Cauriensia
@@ -694,6 +695,8 @@ var journalMapping = {
 	"00027049" : "!252295935!", // America
 	"0002-7049" : "!252295935!", // America
 	"2589-3998" : "!497881373!", // Yearbook of ritual and liturgical studies
+	"00244414" : "!015196593!", // Listening, Journal of Communication Ethics, Religion, and Culture
+	"0024-4414" : "!015196593!", // Listening, Journal of Communication Ethics, Religion, and Culture
 	
 	
 	
@@ -1416,7 +1419,7 @@ var issnPhysicalFormMapping = {
 	"0022-4197" : "O", // Journal of Religion and Health
 	"2555-5111" : "A", // Journal international de bioéthique et d'éthique des sciences
 	"00378887" : "O", // Archivum historicum Societatis Iesu
-	"2295-6093" : "A", // Augustiniana
+	"2295-6093" : "O", // Augustiniana
 	"0045-0308" : "A", // Australian biblical review
 	"00450308" : "A", // Australian biblical review
 	"1886-4945" : "A", //  Cauriensia
@@ -1622,6 +1625,7 @@ var issnPhysicalFormMapping = {
 	"0335-5985" : "O", // Archives de sciences sociales des religions
 	"00027049" : "O", // America
 	"2589-3998" : "O", // Yearbook of ritual and liturgical studies
+	"00244414" : "A", // Listening, Journal of Communication Ethics, Religion, and Culture
 	
 	
 	
@@ -1940,6 +1944,7 @@ var issnSsgMapping = {
 	"22366296" : "0", // Numen
 	"2236-6296" : "0", // Numen
 	"0335-5985" : "0", // Archives de sciences sociales des religions
+	"00244414" : "0", // Listening, Journal of Communication Ethics, Religion, and Culture
 	
 	
 };
