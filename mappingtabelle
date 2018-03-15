@@ -2,6 +2,7 @@
 
 
 
+
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -451,7 +452,7 @@ var journalMapping = {
 	"0022-4197, 1573-6571" : "!121466191!", // Journal of Religion and Health
 	"1573-6571" : "!121466191!", // Journal of Religion and Health
 	"0022-4197" : "!121466191!", // Journal of Religion and Health
-	"2555-5111" : "!461242036!", // Journal international de bioéthique et d'éthique des sciences
+	"2555-5111" : "!477171990!", // Journal international de bioéthique et d'éthique des sciences
 	"00378887" : "!256840768!", // Archivum historicum Societatis Iesu
 	"0037-8887" : "!256840768!", // Archivum historicum Societatis Iesu
 	"2295-6093" : "!407317074!", // Augustiniana
@@ -1417,7 +1418,7 @@ var issnPhysicalFormMapping = {
 	"0022-4197, 1573-6571" : "O", // Journal of Religion and Health
 	"1573-6571" : "O", // Journal of Religion and Health
 	"0022-4197" : "O", // Journal of Religion and Health
-	"2555-5111" : "A", // Journal international de bioéthique et d'éthique des sciences
+	"2555-5111" : "O", // Journal international de bioéthique et d'éthique des sciences
 	"00378887" : "O", // Archivum historicum Societatis Iesu
 	"2295-6093" : "O", // Augustiniana
 	"0045-0308" : "A", // Australian biblical review
@@ -1945,7 +1946,7 @@ var issnSsgMapping = {
 	"2236-6296" : "0", // Numen
 	"0335-5985" : "0", // Archives de sciences sociales des religions
 	"00244414" : "0", // Listening, Journal of Communication Ethics, Religion, and Culture
-	
+	"2555-5111" : "0; 1", // Journal international de bioéthique et d'éthique des sciences
 	
 };
 
@@ -1962,5 +1963,4 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
