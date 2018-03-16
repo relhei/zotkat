@@ -696,6 +696,8 @@ var journalMapping = {
 	"2589-3998" : "!497881373!", // Yearbook of ritual and liturgical studies
 	"00244414" : "!015196593!", // Listening, Journal of Communication Ethics, Religion, and Culture
 	"0024-4414" : "!015196593!", // Listening, Journal of Communication Ethics, Religion, and Culture
+	"1756-073X" : "!314543821!", // Practical Theology
+	
 	
 	
 	
@@ -1625,7 +1627,7 @@ var issnPhysicalFormMapping = {
 	"00027049" : "O", // America
 	"2589-3998" : "O", // Yearbook of ritual and liturgical studies
 	"00244414" : "A", // Listening, Journal of Communication Ethics, Religion, and Culture
-	
+	"1756-073X" : "O", // Practical Theology
 	
 	
 };
