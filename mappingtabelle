@@ -1,8 +1,6 @@
 
 
 
-
-
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -349,7 +347,7 @@ var journalMapping = {
 	"0023-9054, 1703-8804" : "!256979642!", // Laval théologique et philosophiqueLaval théologique et philosophique
 	"0023-9054" : "!256979642!", // Laval théologique et philosophiqueLaval théologique et philosophique
 	"0003-2468" : "!414633695!", // Analecta Bollandiana
-	"0048-721X" : "!014470993!", // Religion a journal of religion and religions
+	"0048-721X" : "!104344660!", // Religion
 	"0005-5719" : "!325341265!", // Baptist history and heritage
 	"00055719" : "!325341265!", // Baptist history and heritage
 	"0210-7112" : "!015182886!", // Revista española de teología
@@ -1339,7 +1337,7 @@ var issnPhysicalFormMapping = {
 	"1323-6377" : "A", // Uniting Church Studies
 	"0023-9054, 1703-8804" : "O", // Laval théologique et philosophique
 	"0003-2468" : "O", // Analecta Bollandiana
-	"0048-721X" : "A", // Religion a journal of religion and religions
+	"0048-721X" : "O", // Religion
 	"00055719" : "O", // Baptist history and heritage
 	"0007-4322" : "A", // Bulletin de littérature ecclésiastique
 	"0021-9231" : "A", // Journal of biblical literature !!eppn
@@ -1840,7 +1838,7 @@ var issnSsgMapping = {
 	"1138-4972" : "0", // 'Ílu
 	"1135-4712" : "0", // 'Ílu
 	"1139-1529" : "0", // 'Ílu
-	"0048-721X" : "0", // Religion a journal of religion and religions
+	"0048-721X" : "0", // Religion
 	"18630502" : "1", //Theo-Web Zeitschrift für Religionspädagogik
 	"1863-0502" : "1", //Theo-Web Zeitschrift für Religionspädagogik
 	"2365-3140" : "0", // Interdisciplinary journal for religion and transformation in contemporary society
@@ -1963,4 +1961,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
