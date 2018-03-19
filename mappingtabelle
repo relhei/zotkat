@@ -698,7 +698,7 @@ var journalMapping = {
 	"00244414" : "!015196593!", // Listening, Journal of Communication Ethics, Religion, and Culture
 	"0024-4414" : "!015196593!", // Listening, Journal of Communication Ethics, Religion, and Culture
 	"1756-073X" : "!314543821!", // Practical Theology
-	
+	"0030-5375" : "!014895315!", // Orientalia christiana periodica
 	
 	
 	
@@ -1629,6 +1629,8 @@ var issnPhysicalFormMapping = {
 	"2589-3998" : "O", // Yearbook of ritual and liturgical studies
 	"00244414" : "A", // Listening, Journal of Communication Ethics, Religion, and Culture
 	"1756-073X" : "O", // Practical Theology
+	"0030-5375" : "A", // Orientalia christiana periodica
+	
 	
 	
 };
@@ -1964,4 +1966,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
