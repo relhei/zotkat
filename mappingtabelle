@@ -1,6 +1,8 @@
 
 
 
+
+
 var journalMapping = {
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
 	"0021-9231" : "!121739872!", // Journal of Biblical Literature 
@@ -1253,7 +1255,7 @@ var issnPhysicalFormMapping = {
 	"1363-013X" : "A", // Quaker studies !!pppn
 	"1363-013X" : "A", // Quaker studies !!eppn
 	"1363-7320" : "A", // Ecotheology !!pppn
-	"1749-4907" : "A", // Journal for the study of religion, nature and culture !!pppn
+	"1749-4907" : "O", // Journal for the study of religion, nature and culture 
 	"1462-2459" : "A", // Reformation & Renaissance review !!pppn - in Z. 7 wurde mit ppn gemappt: diese Z. hier löschen?
 	"1462-3153" : "A", // Journal for the Aramaic bible !!pppn
 	"1462-3153" : "A", // Journal for the Aramaic bible !!eppn
@@ -1890,10 +1892,6 @@ var issnSsgMapping = {
 	"1460-3586" : "0", // Journal of material culture
 	"1534-8423" : "0; 1", // Journal of Media and Religion
 	"1888-346X" : "0", // Bandue: revista de la Sociedad Española de Ciencias de las Religiones
-	"1749-4907, 1749-4915" : "0", // Journal for the Study of Religion, Nature and Culture
-	"1749-4907" : "0", // Journal for the Study of Religion, Nature and Culture
-	"1749-4915" : "0", // Journal for the Study of Religion, Nature and Culture
-	"17494907" : "0", // Journal for the Study of Religion, Nature and Culture
 	"2035-6455" : "0", // Historia Religionum
 	"1743-2200" : "0", // Material Religion : The Journal of Objects, Art and Belief 
 	"2049-7555, 2049-7563" : "0" , // Journal for the Cognitive Science of Religion
@@ -1967,5 +1965,4 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
-
 
