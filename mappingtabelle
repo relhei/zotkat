@@ -463,7 +463,7 @@ var journalMapping = {
 	"1930-1200" : "!052644464!", // Contagion
 	"1075-7201" : "!052644464!", // Contagion
 	"1666-7832" : "!325005931!", // DavarLogos
-	"0210-1610" : "!015178765!", // Estudios eclesiásticos
+	"0210-1610" : "!325341419!", // Estudios eclesiásticos
 	"1945-9718" : "!307016250!", // Franciscan Studies
 	"0080-5459" : "!307016250!", // Franciscan Studies
 	"0018-215X" : "!281366985!", // Hispania Sacra
@@ -1432,7 +1432,7 @@ var issnPhysicalFormMapping = {
 	"1930-1200" : "A", // Contagion
 	"1075-7201" : "A", // Contagion
 	"1666-7832" : "O", // DavarLogos
-	"0210-1610" : "A", // Estudios eclesiásticos
+	"0210-1610" : "O", // Estudios eclesiásticos
 	"1945-9718" : "O", // Franciscan Studies
 	"0080-5459" : "O", // Franciscan Studies
 	"0018-215X" : "O", // Hispania Sacra
@@ -1967,4 +1967,5 @@ var issnKeywordMapping = {
 	"1461-7439" : 6800, // Theoretical criminology Online Publikation|krimdok
 	"1438-9460" : 6800, // Zeitschrift für Sexualforschung Online Publikation|krimdok
 };
+
 
